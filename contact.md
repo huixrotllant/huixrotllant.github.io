@@ -13,11 +13,11 @@ Entrance BJ5, Service D42<br />
 E-mail: miquel.huix-rotllant@cnrs.fr<br />
 Follow me on Twitter: @HuixRotllant</p>
 
-
-
+<div>
+<h1>Map of Saint-Jérôme campus</h1>
+<p>D42 service (in red): entrance "<em>avenue Escadrille Normandie-Niemen</em>"<em> (av. ENN)</em></p>
 <figure class="wp-block-image size-large"><img src="https://icr-amu.cnrs.fr/tctnew/wp-content/uploads/2022/08/g15047-748x1024.png" alt="" class="wp-image-505"/></figure>
-</body>
-</html>
+</div>
 
 
 <div align="left">
@@ -26,8 +26,6 @@ Follow me on Twitter: @HuixRotllant</p>
 <div align="center"> </div>
 <h1> </h1>
 <div class="readmorejs-block" data-readmore-class="btn btn-info" data-readless-class="btn" data-readmore-txt="Read More" data-readless-txt="Close" data-threshold-height="100" data-animation-speed="200">
-<h1>Map of Saint-Jérôme campus</h1>
-<p>D42 service (in red): entrance "<em>avenue Escadrille Normandie-Niemen</em>"<em> (av. ENN)</em></p>
 </div>
 
 <h1>You travel by public transport</h1>
@@ -63,3 +61,6 @@ Follow me on Twitter: @HuixRotllant</p>
 <li>follow the direction "<em>Technopôle Château-Gombert / Faculté Saint-Jérôme</em>"</li>
 </ul>
 </div>
+
+</body>
+</html>
