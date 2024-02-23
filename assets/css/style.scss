@@ -1,4 +1,8 @@
 ---
+---
+
+@import "{{ site.theme }}";
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -17,6 +21,3 @@
     padding: 2rem 1rem;
   }
 }
----
-
-@import "{{ site.theme }}";
