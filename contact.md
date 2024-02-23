@@ -1,17 +1,17 @@
 <html>
 <body>
 <h1>Contact</h1>
-<p>Chimie Théorique</p>
-<p>Aix-Marseille Univ, CNRS, ICR, UMR 7273</p>
-<p>52 Av. Esc. Normandie-Niemen</p>
-<p>Entrance BJ5, Service D42</p>
-<p>13397 Marseille Cedex 20 – FRANCE</p>
+<p>Chimie Théorique
+Aix-Marseille Univ, CNRS, ICR, UMR 7273
+52 Av. Esc. Normandie-Niemen
+Entrance BJ5, Service D42
+13397 Marseille Cedex 20 – FRANCE</p>
 
 <p>T. +33 (0)4 13 94 58 81</p>
 
-<p>WWW: <a href="http://huixrotllant.github.io" target="_blank" rel="noopener noreferrer">huixrotllant.github.io</a></p>
-<p>E-mail: miquel.huix-rotllant@cnrs.fr</p>
-<p>Follow me on Twitter: @HuixRotllant</p>
+<p>WWW: <a href="http://huixrotllant.github.io" target="_blank" rel="noopener noreferrer">huixrotllant.github.io</a>
+E-mail: miquel.huix-rotllant@cnrs.fr
+Follow me on Twitter: @HuixRotllant</p>
   
 <h1>You travel by public transport</h1>
 <div align="left">
