@@ -2,7 +2,6 @@
 title: Contact
 ---
 
-<html>
 <style>
 .page-header {
   color: #000;
@@ -27,7 +26,6 @@ title: Contact
     background-color: #7c940ea1;
   }
 </style>
-<body>
 
 <p>Chimie Théorique<br />
 Aix-Marseille Univ, CNRS, ICR, UMR 7273<br />
@@ -88,5 +86,4 @@ Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_bla
 </ul>
 </div>
 
-</body>
-</html>
+
