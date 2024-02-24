@@ -15,6 +15,7 @@ title: Publications
   .btn {
     color: #000;
     border-color: #000; 
+    background-color: #000;
   } 
 
   .btn:hover {
