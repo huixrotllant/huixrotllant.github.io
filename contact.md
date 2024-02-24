@@ -5,7 +5,7 @@
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./640px-Marseille_panorama.jpg");
+  background-image: url("./1920px-Marseille_panorama.jpg");
   margin: 0 auto;
 
 }
