@@ -26,18 +26,18 @@ title: Contact
     background-color: #7c940ea1;
   }
 </style>
-
+<p><b>Address:</b></p><br />
 <p>Chimie Théorique<br />
 Aix-Marseille Univ, CNRS, ICR, UMR 7273<br />
 52 Av. Esc. Normandie-Niemen<br />
 Entrance BJ5, Service D42<br />
 13397 Marseille Cedex 20 – FRANCE</p>
 
-<p>T. +33 (0)4 13 94 58 81</p>
+<p><b>Phone: </b> +33 (0)4 13 94 58 81</p>
 
-<p>WWW: <a href="http://huixrotllant.github.io" target="_self" rel="noopener noreferrer">huixrotllant.github.io</a><br />
-E-mail: <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br />
-Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_blank" rel="noopener noreferrer">@HuixRotllant</a></p>
+<p><b>Website:</b> <a href="http://huixrotllant.github.io" target="_self" rel="noopener noreferrer">huixrotllant.github.io</a><br />
+<b>E-mail:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br />
+<b>Twitter:</b>: <a href="http://www.twitter.com/HuixRotllant" target="_blank" rel="noopener noreferrer">@HuixRotllant</a></p>
 
 <div>
 <h1>Map of Saint-Jérôme campus</h1>
