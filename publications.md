@@ -1,3 +1,6 @@
+---
+title: Publications
+---
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Park2024" class="csl-entry">
