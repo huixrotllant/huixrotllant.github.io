@@ -22,6 +22,7 @@ title: Publications
     color: #000;
     text-decoration: none;
     border-color: #000;
+    background-color: #7c940ea1;
   }
 </style>
 <body>
