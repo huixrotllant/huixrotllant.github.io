@@ -107,6 +107,7 @@ border: none;
 
 
 <h1>Alumni</h1> 
+<ul>
 <li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
 <li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
 <li> Johanna Guazelli, Bachelor, 2020 </li>
