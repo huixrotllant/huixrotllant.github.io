@@ -39,7 +39,7 @@
   </td>
   <td>
    24/02/2024 - <b>New website</b> <br>
-  We updated the website of the Huix-Rotllant Research group. The webpage is still under construction. Find the news of our group from now on in <a href="https://huixrotllant.github.io">http://huixrotllant.github.io</a>.
+  We updated the website of the Huix-Rotllant Research group. The webpage is still under construction. Find the news of our group from now on in <a href="https://huixrotllant.github.io">https://huixrotllant.github.io</a>.
   </td>
 </tr>
 <tr>
