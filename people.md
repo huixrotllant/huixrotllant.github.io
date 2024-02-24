@@ -23,7 +23,7 @@ title: People
     <td class="tg-0lax">ANR MAPPLE</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img class="logo" src="images/marc.png" alt="airstream.js logo" width="475" height="235" /></td>
+    <td class="tg-0lax"><img class="logo" src="images/marc.png" alt="airstream.js logo" width="150" height="150" /></td>
     <td class="tg-0lax">Marc Alías-Rodríguez</td>
     <td class="tg-0lax">Post-Doctoral fellow</td>
     <td class="tg-0lax">marc.alias-rodriguez@univ-amu.fr</td>
