@@ -51,7 +51,7 @@ border: none;
   <a href="https://scholar.google.com/citations?user=4-Y_V40AAAAJ" target="_blank">Google Scholar</a>
   <a href="https://twitter.com/HuixRotllant" target="_blank">Twitter</a>
   <br>
-  <b>Contact:</b> miquel.huix-rotllant@cnrs.fr<br>
+  <b>Contact:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br>
   </td>
 </tr>
 
