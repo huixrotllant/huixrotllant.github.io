@@ -10,6 +10,11 @@
 
 }
 </style>
+<header>
+  <h1 class="project-name">{{ "Contact" | default: site.title | default: site.github.repository_name }}</h1>
+</header>
+
+
 <body>
 <h1>Contact</h1>
 <p>Chimie Théorique<br />
