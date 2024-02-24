@@ -8,10 +8,21 @@ title: Contact
   color: #000;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./1920px-Marseille_panorama.jpg");
+  background-image: url("./images/1920px-Marseille_panorama.jpg");
   margin: 0 auto;
 
 }
+  .btn {
+    color: #000000;
+    border-color: #000000; 
+  } 
+
+  .btn:hover {
+    color: #0bb6e1cc;
+    text-decoration: none;
+    background-color: #7c940ea1;
+    border-color: #000000;
+  }
 </style>
 <body>
 <h1>Contact</h1>
