@@ -1,5 +1,16 @@
 ---
 title: Contact
+  .btn {
+    color: #000000;
+    border-color: #000000; 
+  } 
+
+  .btn:hover {
+    color: #0bb6e1cc;
+    text-decoration: none;
+    background-color: #7c940ea1;
+    border-color: #000000;
+  }
 ---
 
 <html>
@@ -12,20 +23,9 @@ title: Contact
   margin: 0 auto;
 
 }
-  .btn {
-    color: #000000;
-    border-color: #000000; 
-  } 
-
-  .btn:hover {
-    color: #0bb6e1cc;
-    text-decoration: none;
-    background-color: #7c940ea1;
-    border-color: #000000;
-  }
 </style>
 <body>
-<h1>Contact</h1>
+
 <p>Chimie Théorique<br />
 Aix-Marseille Univ, CNRS, ICR, UMR 7273<br />
 52 Av. Esc. Normandie-Niemen<br />
