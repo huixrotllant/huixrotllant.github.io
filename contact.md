@@ -1,13 +1,11 @@
 
 <html>
 <style>
-  @import "{{ site.theme }}";
-
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./Marseille_panorama_from_Palais_du_Pharo.jpg");
+  background-image: url("./640px-Marseille_panorama.jpg");
 
   @include large {
     padding: 5rem 6rem;
