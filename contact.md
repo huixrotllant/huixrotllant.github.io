@@ -1,9 +1,8 @@
 
 <html>
 <style>
-$header-heading-color: #000 !default;
 .page-header {
-  color: $header-heading-color;
+  color: #000;
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("./1920px-Marseille_panorama.jpg");
