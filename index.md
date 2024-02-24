@@ -34,7 +34,7 @@ title: Research
 <tr>
   <td width="25%">
   <center>
-  <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></image></a>
+  <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></a>
   </center>
   </td>
   <td>
@@ -45,7 +45,7 @@ title: Research
 <tr>
   <td width="25%">
   <center>
-  <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/></image>
+  <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
   <td>
@@ -56,7 +56,7 @@ title: Research
 <tr>
   <td width="25%">
   <center>
-  <a href="http://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank"><image src="./images/nature.png" position="center" style="border-radius: 4px; width: 200px"/></image></a>
+  <a href="http://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank"><image src="./images/nature.png" position="center" style="border-radius: 4px; width: 200px"/></a>
   </center>
   </td>
   <td>
