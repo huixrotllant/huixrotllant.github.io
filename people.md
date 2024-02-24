@@ -47,9 +47,33 @@ border: none;
   <td>
    Miquel Huix-Rotllant <br>
     <b>Principal Investigator</b><br>
-  <a href="https://orcid.org/0000-0002-2131-7328" target="_blank">OrcID</a>
-  <a href="https://scholar.google.com/citations?user=4-Y_V40AAAAJ" target="_blank">Google Scholar</a>
-  <a href="https://twitter.com/HuixRotllant" target="_blank">Twitter</a>
+     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-2131-7328"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+     0000-0002-2131-7328
+    </a> <br>
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://scholar.google.com/citations?user=4-Y_V40AAAAJ"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="Google Scholar icon"/>
+      Google Scholar
+    </a> <br>
+𝕏 <a href="https://twitter.com/HuixRotllant" target="_blank">@HuixRotllant</a>
   <br>
   <b>Contact:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br>
   </td>
@@ -64,8 +88,20 @@ border: none;
   <td>
    Marc Alías-Rodriguez <br>
     <b>Post-doctoral fellow</b><br>
-  <a href="https://orcid.org/0000-0002-1826-4552" target="_blank">OrcID</a>
-  <a href="https://twitter.com/maliasrodrig" target="_blank">Twitter</a>
+     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-1826-4552"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+     0000-0002-1826-4552
+    </a> <br>
+  𝕏 <a href="https://twitter.com/maliasrodrig" target="_blank">@MAliasRodrig</a>
   <br>
   <b>Project:</b> ANR MULTICROSS<br>
   <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
@@ -95,6 +131,19 @@ border: none;
    Thomas Fay <br>
     <b>Post-doctoral fellow</b>
   <br>
+     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-0625-731X"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      0000-0003-0625-731X
+    </a> <br>
   <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> thomas.fay@univ-amu.fr<br>
   </td>
@@ -109,6 +158,19 @@ border: none;
    Simone Bonfrate <br>
     <b>PhD Student</b>
   <br>
+     <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-4820-7444"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      0000-0002-4820-7444
+    </a> <br>
   <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> simone.bonfrate@univ-amu.fr<br>
   </td>
@@ -121,7 +183,20 @@ border: none;
   </td>
   <td>
    Woojin Park <br>
-    <b>PhD Student</b>
+    <b>PhD Student</b><br>
+         <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-5066-6674"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      0000-0002-5066-6674
+    </a>
   <br>
   Exchange student<br>
   <b>Contact:</b> ujin.park@univ-amu.fr<br>
