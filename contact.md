@@ -12,6 +12,16 @@ title: Contact
   margin: 0 auto;
 
 }
+  .btn {
+    color: #000;
+    border-color: #000; 
+  } 
+
+  .btn:hover {
+    color: #000;
+    text-decoration: none;
+    border-color: #000;
+  }
 </style>
 <body>
 
