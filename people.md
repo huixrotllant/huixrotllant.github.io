@@ -46,7 +46,7 @@ title: People
   <a href="https://orcid.org/0000-0002-1826-4552" target="_blank">OrcID</a>
   <a href="https://twitter.com/maliasrog" target="_blank">Twitter</a>
   <br>
-  <b>Project:</b> ANR MULTICROSS
+  <b>Project:</b> ANR MULTICROSS<br>
   <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
   </td>
 </tr>
@@ -74,7 +74,7 @@ title: People
    Thomas Fay <br>
     <b>Post-doctoral fellow</b>
   <br>
-  <b>Project:</b> ANR MAPPLE
+  <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> thomas.fay@univ-amu.fr<br>
   </td>
 </tr>
@@ -88,7 +88,7 @@ title: People
    Simone Bonfrate <br>
     <b>PhD Student</b>
   <br>
-  <b>Project:</b> ANR MAPPLE
+  <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> simone.bonfrate@univ-amu.fr<br>
   </td>
 </tr>
@@ -102,7 +102,7 @@ title: People
    Woojin Park <br>
     <b>PhD Student</b>
   <br>
-  Exchange student
+  Exchange student<br>
   <b>Contact:</b> ujin.park@univ-amu.fr<br>
   </td>
 </tr>
