@@ -1,3 +1,32 @@
+---
+title: Research
+---
+
+<html>
+<style>
+.page-header {
+  color: #000;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url("./images/header.png");
+  margin: 0 auto;
+
+}
+  .btn {
+    color: #000;
+    border-color: #000; 
+    background-color: #fff;
+  } 
+
+  .btn:hover {
+    color: #000;
+    text-decoration: none;
+    border-color: #000;
+    background-color: #7c940ea1;
+  }
+</style>
+<body>
+
 <h1> News </h1>
 
 <table>
@@ -5,7 +34,7 @@
 <tr>
   <td width="25%">
   <center>
-  <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank"><image src="./images/preprint240224" position="center" style="border-radius: 4px; width: 200px"/></image></a>
+  <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></image></a>
   </center>
   </td>
   <td>
@@ -36,3 +65,5 @@
   </td>
 </tr>
 </table>
+</body>
+</html>
