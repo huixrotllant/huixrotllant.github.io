@@ -8,7 +8,7 @@ title: Contact
   color: #000;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./images/1920px-Marseille_panorama.jpg");
+  background-image: url("./images/contactheader.png");
   margin: 0 auto;
 
 }
