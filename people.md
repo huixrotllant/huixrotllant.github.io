@@ -2,57 +2,112 @@
 title: People
 ---
 
+<style>
+  table td {
+    border: none !important;
+  }
+  img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+</style>
+
 <h1>Current members</h1> 
-<div style="overflow-x:auto;">
-<table class="tg" cellspacing="0" cellpadding="0">
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-1wig">Name</th>
-    <th class="tg-1wig">Email</th>
-    <th class="tg-1wig">Position</th>
-    <th class="tg-1wig">Project</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Thomas Fay</td>
-    <td class="tg-0lax">Post-doctoral fellow</td>
-    <td class="tg-0lax">thomas.fay@univ-amu.fr</td>
-    <td class="tg-0lax">ANR MAPPLE</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img class="logo" src="images/marc.png" alt="airstream.js logo" width="150" height="150" /></td>
-    <td class="tg-0lax">Marc Alías-Rodríguez</td>
-    <td class="tg-0lax">Post-Doctoral fellow</td>
-    <td class="tg-0lax">marc.alias-rodriguez@univ-amu.fr</td>
-    <td class="tg-0lax">ANR MULTICROSS</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Darío Barreiro-Laje</td>
-    <td class="tg-0lax">Post-Doctoral fellow</td>
-    <td class="tg-0lax">dario.barreiro-laje@univ-amu.fr</td>
-    <td class="tg-0lax">ANR ULTRARCHEA</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Simone Bonfrate</td>
-    <td class="tg-0lax">PhD Student</td>
-    <td class="tg-0lax">simone.bonfrate@univ-amu.fr</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Woojin Park</td>
-    <td class="tg-0lax">PhD Student</td>
-    <td class="tg-0lax">Woojin.park@univ-amu.fr</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-</div>
+
+<table>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/miquel.png" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Miquel Huix-Rotllant <br>
+    <b>Principal Investigator</b><br>
+  <a href="https://orcid.org/0000-0002-2131-7328" target="_blank">OrcID</a>
+  <a href="https://scholar.google.com/citations?user=4-Y_V40AAAAJ" target="_blank">Google Scholar</a>
+  <a href="https://twitter.com/HuixRotllant" target="_blank">Twitter</a>
+  <br>
+  <b>Contact:</b> miquel.huix-rotllant@cnrs.fr<br>
+  </td>
+</tr>
+
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/marc.png" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Marc Alías-Rodriguez <br>
+    <b>Post-doctoral fellow</b><br>
+  <a href="https://orcid.org/0000-0002-1826-4552" target="_blank">OrcID</a>
+  <a href="https://twitter.com/maliasrog" target="_blank">Twitter</a>
+  <br>
+  <b>Project:</b> ANR MULTICROSS
+  <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
+  </td>
+</tr>
+    
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/dario.png" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Darío Barreiro-Lage <br>
+    <b>Post-doctoral fellow</b>
+  <br>
+  <b>Project:</b> ANR ULTRARCHEA<br>
+  <b>Contact:</b> dario.barreiro-lage@univ-amu.fr<br>
+  </td>
+</tr>
+    <tr>
+  <td width="25%">
+  <center>
+  </center>
+  </td>
+  <td>
+   Thomas Fay <br>
+    <b>Post-doctoral fellow</b>
+  <br>
+  <b>Project:</b> ANR MAPPLE
+  <b>Contact:</b> thomas.fay@univ-amu.fr<br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/simone.png" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Simone Bonfrate <br>
+    <b>PhD Student</b>
+  <br>
+  <b>Project:</b> ANR MAPPLE
+  <b>Contact:</b> simone.bonfrate@univ-amu.fr<br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Woojin Park <br>
+    <b>PhD Student</b>
+  <br>
+  Exchange student
+  <b>Contact:</b> ujin.park@univ-amu.fr<br>
+  </td>
+</tr>
+
+  </table>    
 
 
 <h1>Alumni</h1> 
