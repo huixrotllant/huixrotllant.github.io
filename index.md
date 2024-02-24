@@ -30,7 +30,17 @@
 <h1> News </h1>
 
 <table>
-  
+ <tr>
+  <td width="25%">
+  <center>
+  <image src="./images/hiring.png" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   24/02/2024 - <b>We are hiring!</b> <br>
+   New openings for PhD positions might be available soon in our group (May 2024). Do not hesitate to send your CV and motivation letter to miquel.huix-rotllant@cnrs.fr. We will contact back soon with more details!!
+  </td>
+</tr> 
 <tr>
   <td width="25%">
   <center>
