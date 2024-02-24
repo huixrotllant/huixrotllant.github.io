@@ -1,6 +1,29 @@
 ---
 title: Publications
 ---
+
+<html>
+<style>
+.page-header {
+  color: #000;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url("./images/pubheader.png");
+  margin: 0 auto;
+
+}
+  .btn {
+    color: #000;
+    border-color: #000; 
+  } 
+
+  .btn:hover {
+    color: #000;
+    text-decoration: none;
+    border-color: #000;
+  }
+</style>
+<body>
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Park2024" class="csl-entry">
