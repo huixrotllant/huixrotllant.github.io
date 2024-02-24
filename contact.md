@@ -1,5 +1,27 @@
 
 <html>
+<style>
+  @import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c6/Marseille_panorama_from_Palais_du_Pharo.jpg");
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+</style>
 <body>
 <h1>Contact</h1>
 <p>Chimie Théorique<br />
