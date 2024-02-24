@@ -5,10 +5,11 @@
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./1280px-Marseille_panorama.jpg");
+  background-image: url("./1920px-Marseille_panorama.jpg");
   margin: 0 auto;
 
 }
+.title{color: black;}
 </style>
 <body>
 <h1>Contact</h1>
