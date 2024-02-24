@@ -32,9 +32,9 @@ Entrance BJ5, Service D42<br />
 
 <p>T. +33 (0)4 13 94 58 81</p>
 
-<p>WWW: <a href="http://huixrotllant.github.io" target="_blank" rel="noopener noreferrer">huixrotllant.github.io</a><br />
+<p>WWW: <a href="http://huixrotllant.github.io" target="_self" rel="noopener noreferrer">huixrotllant.github.io</a><br />
 E-mail: miquel.huix-rotllant@cnrs.fr<br />
-Follow me on Twitter: @HuixRotllant</p>
+Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_blank" rel="noopener noreferrer">@HuixRotllant</a></p>
 
 <div>
 <h1>Map of Saint-Jérôme campus</h1>
