@@ -1,6 +1,7 @@
 
 <html>
 <style>
+$header-heading-color: #fff !default;
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -9,7 +10,6 @@
   margin: 0 auto;
 
 }
-.title{color: black;}
 </style>
 <body>
 <h1>Contact</h1>
