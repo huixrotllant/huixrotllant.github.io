@@ -65,7 +65,7 @@ border: none;
    Marc Alías-Rodriguez <br>
     <b>Post-doctoral fellow</b><br>
   <a href="https://orcid.org/0000-0002-1826-4552" target="_blank">OrcID</a>
-  <a href="https://twitter.com/maliasrog" target="_blank">Twitter</a>
+  <a href="https://twitter.com/maliasrodrig" target="_blank">Twitter</a>
   <br>
   <b>Project:</b> ANR MULTICROSS<br>
   <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
