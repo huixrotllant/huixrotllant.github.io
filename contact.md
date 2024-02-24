@@ -40,7 +40,7 @@ Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_bla
 <div>
 <h1>Map of Saint-Jérôme campus</h1>
 <p>D42 service (in red): entrance "<em>avenue Escadrille Normandie-Niemen</em>"<em> (av. ENN)</em></p>
-<figure class="wp-block-image size-large"><img src="https://icr-amu.cnrs.fr/tctnew/wp-content/uploads/2022/08/g15047-748x1024.png" width="600" height="500" alt="" class="wp-image-505"/></figure>
+<figure class="wp-block-image size-large"><img src="https://icr-amu.cnrs.fr/tctnew/wp-content/uploads/2022/08/g15047-748x1024.png" width="600" height="600" alt="" class="wp-image-505"/></figure>
 </div>
 
 
