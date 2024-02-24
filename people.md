@@ -3,7 +3,8 @@ title: People
 ---
 
 <h1>Current members</h1> 
-<table class="tg">
+<div style="overflow-x:auto;">
+<table class="tg" cellspacing="0" cellpadding="0">
 <thead>
   <tr>
     <th class="tg-0lax"></th>
@@ -22,7 +23,7 @@ title: People
     <td class="tg-0lax">ANR MAPPLE</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img class="logo" src="images/marc.png" alt="airstream.js logo" width="475" height="235" /></td>
     <td class="tg-0lax">Marc Alías-Rodríguez</td>
     <td class="tg-0lax">Post-Doctoral fellow</td>
     <td class="tg-0lax">marc.alias-rodriguez@univ-amu.fr</td>
@@ -51,9 +52,10 @@ title: People
   </tr>
 </tbody>
 </table>
+</div>
+
 
 <h1>Alumni</h1> 
-<li>
 <li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
 <li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
 <li> Johanna Guazelli, Bachelor, 2020 </li>
