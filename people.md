@@ -3,14 +3,10 @@ title: People
 ---
 
 <style>
-  table td {
-    border: none !important;
-  }
-  img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-    object-position: center;
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
 }
 </style>
 
