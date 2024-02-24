@@ -6,18 +6,8 @@
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("./640px-Marseille_panorama.jpg");
+  margin: 0 auto;
 
-  @include large {
-    padding: 5rem 6rem;
-  }
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-  @include small {
-    padding: 2rem 1rem;
-  }
 }
 </style>
 <body>
