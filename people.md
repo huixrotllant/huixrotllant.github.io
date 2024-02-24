@@ -3,12 +3,14 @@ title: People
 ---
 
 <html>
-<style>
+  <style>
 .page-header {
   color: #000;
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("./images/header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0 auto;
 
 }
