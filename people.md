@@ -54,12 +54,12 @@ title: People
 
 <h1>Alumni</h1> 
 <li>
-<ul> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </ul>
-<ul> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </ul>
-<ul> Johanna Guazelli, Bachelor, 2020 </ul>
-<ul> Karno Schwinn, PhD student, 2018-2020 </ul>
-<ul> Padmabati Mondal, Post-Doctoral fellow, 2018-2018</ul>
-</li>
+<li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
+<li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
+<li> Johanna Guazelli, Bachelor, 2020 </li>
+<li> Karno Schwinn, PhD student, 2018-2020 </li>
+<li> Padmabati Mondal, Post-Doctoral fellow, 2018-2018</li>
+</ul>
 
 
 
