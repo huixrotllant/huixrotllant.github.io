@@ -1,7 +1,7 @@
 
 <html>
 <style>
-$header-heading-color: #fff !default;
+$header-heading-color: #000 !default;
 .page-header {
   color: $header-heading-color;
   text-align: center;
