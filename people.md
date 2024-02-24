@@ -2,7 +2,29 @@
 title: People
 ---
 
+<html>
 <style>
+.page-header {
+  color: #000;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url("./images/header.png");
+  margin: 0 auto;
+
+}
+  .btn {
+    color: #000;
+    border-color: #000; 
+    background-color: #fff;
+  } 
+
+  .btn:hover {
+    color: #000;
+    text-decoration: none;
+    border-color: #000;
+    background-color: #7c940ea1;
+  }
+
 table, tr, td, th{
 padding: 10px;
 margin: auto;
@@ -10,6 +32,7 @@ border: none;
 }
 </style>
 
+<body>
 <h1>Current members</h1> 
 
 <table>
@@ -115,7 +138,8 @@ border: none;
 <li> Padmabati Mondal, Post-Doctoral fellow, 2018-2018</li>
 </ul>
 
-
+</body>
+</html>
 
 
 
