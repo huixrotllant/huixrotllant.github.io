@@ -1,16 +1,5 @@
 ---
 title: Contact
-  .btn {
-    color: #000000;
-    border-color: #000000; 
-  } 
-
-  .btn:hover {
-    color: #0bb6e1cc;
-    text-decoration: none;
-    background-color: #7c940ea1;
-    border-color: #000000;
-  }
 ---
 
 <html>
