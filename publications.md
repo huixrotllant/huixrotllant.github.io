@@ -1,10 +1,10 @@
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Park2024" class="csl-entry">
-    <div class="csl-right-inline">[56] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C. H. <i>Dark State Lifetime Determines GFP Fluorescence</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
+    <div class="csl-right-inline">[55] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C. H. <i>Dark State Lifetime Determines GFP Fluorescence</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
   <div data-csl-entry-id="AliasRodriguez2024" class="csl-entry">
-    <div class="csl-right-inline">[55] Alias-Rodríguez, M.; Huix-Rotllant, M. <i>Control of the Iron-Tris(2,2’-Bipyridine) Light-Induced Excited-State Trapping via External Electromagnetic Fields</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
+    <div class="csl-right-inline">[54] Alias-Rodríguez, M.; Huix-Rotllant, M. <i>Control of the Iron-Tris(2,2’-Bipyridine) Light-Induced Excited-State Trapping via External Electromagnetic Fields</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
   <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
     <div class="csl-right-inline">[53] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M. <i>Analytic Gradients for the Electrostatic Embedding QM/MM in Periodic Boundary Conditions Using Particle-Mesh Ewald Sums and Electrostatic Potential Fitted Charge Operators</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. Pre-print: <a href="https://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank">10.26434/chemrxiv-2024-5tzsf</a>
