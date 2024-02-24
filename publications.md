@@ -43,7 +43,7 @@ title: Publications
   </div>
 <h1>Accepted</h1>
   <div data-csl-entry-id="Barends2024" class="csl-entry">
-    <div class="csl-right-inline">[51] Barends, T. R. M.; Bhattacharyya, S.; Gorel, A.; Schiro, G.; Bacellar, C.; Cirelli, C.; Colletier, J.-P.; Foucar, L.; Grünbein, M. L.; Hartmann, E.; Hilpert, M.; Johnson, P. J. M.; Kloos, M.; Knopp, G.; Marekha, B.; Nass, K.; Kovacs, G. N.; Ozerov, D.; Stricker, M.; Weik, M.; Doak, R. B.; Shoeman, R. L.; Milne, C. J.; Huix-Rotllant, M.; Cammarata, M.; Schlichting, I. <i>Influence of Pump Laser Fluence on Ultrafast Structural Changes in Myoglobin</i>. Nature <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1101/2022.11.22.517513" target="_blank">10.1101/2022.11.22.517513</a>.</div><br>
+    <div class="csl-right-inline">[51] Barends, T. R. M.; Bhattacharyya, S.; Gorel, A.; Schiro, G.; Bacellar, C.; Cirelli, C.; Colletier, J.-P.; Foucar, L.; Grünbein, M. L.; Hartmann, E.; Hilpert, M.; Johnson, P. J. M.; Kloos, M.; Knopp, G.; Marekha, B.; Nass, K.; Kovacs, G. N.; Ozerov, D.; Stricker, M.; Weik, M.; Doak, R. B.; Shoeman, R. L.; Milne, C. J.; Huix-Rotllant, M.; Cammarata, M.; Schlichting, I. <i>Influence of Pump Laser Fluence on Ultrafast Structural Changes in Myoglobin</i>. Nature <i>626</i>, 905–911, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/0.1038/s41586-024-07032-9" target="_blank">0.1038/s41586-024-07032-9</a>.</div><br>
   </div>
   <div data-csl-entry-id="Pieri2024" class="csl-entry">
     <div class="csl-right-inline">[50] Pieri, E.; Weingart, O.; Huix-Rotllant, M.; Ledentu, V.; Garavelli, M.; Ferré, N. <i>Modeling PH-Dependent Biomolecular Photochemistry</i>. Journal of Chemical Theory and Computation <i>20</i>, 842–855, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.3c00980" target="_blank">10.1021/acs.jctc.3c00980</a>.</div><br>
@@ -204,3 +204,5 @@ title: Publications
   <div data-csl-entry-id="Ferre2016" class="csl-entry">
     <div class="csl-right-inline">[1] <i>Density-Functional Methods for Excited States</i>; Ferré, N., Filatov, M., Huix-Rotllant, M., Eds.; Springer International Publishing, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1007/978-3-319-22081-9" target="_blank">10.1007/978-3-319-22081-9</a>.</div>
   </div>
+</body>
+</html>
