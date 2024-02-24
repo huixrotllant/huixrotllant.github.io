@@ -1,6 +1,4 @@
----
-title: Research
----
+
 
 <html>
 <style>
