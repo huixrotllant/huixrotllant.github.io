@@ -15,7 +15,7 @@ title: Contact
   .btn {
     color: #000;
     border-color: #000; 
-    background-color: #000;
+    background-color: #fff;
   } 
 
   .btn:hover {
