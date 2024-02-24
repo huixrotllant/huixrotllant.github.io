@@ -36,7 +36,7 @@ Entrance BJ5, Service D42<br />
 <p>T. +33 (0)4 13 94 58 81</p>
 
 <p>WWW: <a href="http://huixrotllant.github.io" target="_self" rel="noopener noreferrer">huixrotllant.github.io</a><br />
-E-mail: miquel.huix-rotllant@cnrs.fr<br />
+E-mail: <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br />
 Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_blank" rel="noopener noreferrer">@HuixRotllant</a></p>
 
 <div>
@@ -56,7 +56,7 @@ Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_bla
 <div align="left">
 <p><strong>From<em> "Marseille Provence" </em>airport</strong></p>
 <ul>
-<li>take the <strong><a href="http://www.navettemarseilleaeroport.com/index.php" target="_blank" rel="noopener noreferrer">"Marseille - Airport" shuttle</a></strong> (departure every 15 min., journey time : approximately 25 min., one-way ticket fare : 8.20 Euros).</li>
+<li>take the <strong><a href="http://www.navettemarseilleaeroport.com/index.php" target="_blank" rel="noopener noreferrer">"Marseille - Airport" shuttle</a></strong> (departure every 15 min., journey time : approximately 25 min.).</li>
 </ul>
 <p><strong>From<em> "Saint-Charles" </em>railway station</strong></p>
 </div>
@@ -64,7 +64,7 @@ Follow me on Twitter: <a href="http://www.twitter.com/HuixRotllant" target="_bla
 <li>take the <strong>subway "Metro 1"</strong> (blue line) direction "<em>La Rose</em>", as far as the station "<em>Malpassé</em>".</li>
 <li>at the station "<em>Malpassé</em>", take the bus<strong> B3A</strong> direction "<em>St Jérôme Parking Relais</em>", as far as the stop "<em>St Jérôme Faculté</em>"</li>
 </ul>
-<p>(journey time from the railway station : 15 to 20 min., "<em>ticket Solo</em>" fare (1 hour validity) : 1.50 Euros).</p>
+<p>(journey time from the railway station : 15 to 20 min.).</p>
 <div align="left">
 <h1>You travel by car</h1>
 <p><strong>From A7 motorway (Lyon-Aix-Marseille)</strong></p>
