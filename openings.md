@@ -52,7 +52,7 @@ title: Openings
   </tr>
   
   <tr>
-    <td class="tg-oe15"><img src="https://marie-sklodowska-curie-actions.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"/></td>
+    <td class="tg-oe15"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024" target="_blank"><img src="https://marie-sklodowska-curie-actions.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"/></a></td>
     <td class="tg-oe15"><p align="justify"><b>MSCA post-doctoral funding (Deadline: 11 September 2024):</b> The Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2024 are open. We support candidatures for this action. More information can be found here: <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024" target="_blank">https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024</a></p>
 <p align="justify"><b>Apply:</b> Send a full CV with publications and referees that have worked with you in the past along with a motivation letter to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to MSCA post-doctoral fellowship">miquel.huix-rotllant@cnrs.fr</a>.
 </td>
