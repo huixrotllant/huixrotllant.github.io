@@ -41,7 +41,7 @@ title: Research
   </td>
 </tr>
 </table>
-<h1>Quantum wavepacket dynamics dynamics</h1>
+<h1>Quantum wavepacket dynamics</h1>
     <table>
 <tr>
   <td width="25%">
