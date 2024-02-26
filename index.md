@@ -38,7 +38,7 @@
   </td>
   <td>
    24/02/2024 - <b>We are hiring!</b> <br>
-   New openings for PhD positions might be available soon in our group (May 2024). Do not hesitate to send your CV and motivation letter to miquel.huix-rotllant@cnrs.fr. We will contact back soon with more details!!
+   New openings for PhD and post-doc positions are available in our group. Visit <a href="https://huixrotllant.github.io/openings.html" target="_blank">openings</a> for more information on the current oportunities in our group.
   </td>
 </tr> 
 <tr>
