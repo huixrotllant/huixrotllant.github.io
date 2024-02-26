@@ -35,14 +35,12 @@ title: Research
 </style>
 <body>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-oe15"><img src="https://huixrotllant.github.io/images/hiring.png"/></th>
-    <th class="tg-oe15"><p align="justify"><b>PhD funding for 3 years available (Deadline: End March 2024):</b> A full PhD funding is available in our group. We can propose you several topics from our research interests, or you can come with your own project. A Master degree is required in the starting date of the PhD (October 2024) so last year Master students that will possess their diploma on September 2024 can apply. The funding is subject to a scientific selection committee, for which each candidate needs to defend its past research experience and education and the PhD project. Selections will be held in May 2024.</p>
-<p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></th>
-  </tr>
-</thead>
 <tbody>
+  <tr>
+    <td class="tg-oe15"><img src="https://huixrotllant.github.io/images/hiring.png"/></td>
+    <td class="tg-oe15"><p align="justify"><b>PhD funding for 3 years available (Deadline: End March 2024):</b> A full PhD funding is available in our group. We can propose you several topics from our research interests, or you can come with your own project. A Master degree is required in the starting date of the PhD (October 2024) so last year Master students that will possess their diploma on September 2024 can apply. The funding is subject to a scientific selection committee, for which each candidate needs to defend its past research experience and education and the PhD project. Selections will be held in May 2024.</p>
+<p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
+  </tr>
   <tr>
     <td class="tg-oe15"><img src="https://huixrotllant.github.io/images/asr3.png"/></td>
     <td class="tg-oe15"><p align="justify"><b>Post-doctoral funding for 1 year available (Deadline: End June 2024):</b>Archaerhodopsin-3 (AR-3), a photo-activated proton pump from Halorubrum sodomense, is the progenitor of an entire class of genetically encoded fluorescent membrane voltage indicators (GEVI). While point mutations of AR-3 and other microbial Rhodopsin have been proposed for enhancing their fluorescence quantum yield, too often such mutants lose the AR-3 voltage sensitivity, eventually preventing their application in the field of optogenetics. The underlying molecular mechanism of rhodopsin voltage sensitivity is still unknown, motivating the present investigation. The proposed research program will be developed in the framework of the <a href="https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-9b821bf32f/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=c7eb53aa765bb9af4e788b671d27860b" target="_blank">ULTRArchea</a> project, funded by the French National Research Agency. Using advanced methods of ultrafast electronic and vibrational spectroscopies and state-of-the-art quantum chemistry methods, combined with time-resolved X-ray crystallography, the ULTRArchea consortium provides for the first time a detailed mechanistic understanding of the structure-function relationship leading to unusual fluorescence properties in AR-3 and its variants.</p>
