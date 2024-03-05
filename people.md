@@ -125,10 +125,11 @@ border: none;
     <tr>
   <td width="25%">
   <center>
+      <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
   <td>
-   Thomas Fay <br>
+   Thomas Patrick Fay <br>
     <b>Post-doctoral fellow</b>
   <br>
      <a
@@ -145,7 +146,7 @@ border: none;
       0000-0003-0625-731X
     </a> <br>
   <b>Project:</b> ANR MAPPLE<br>
-  <b>Contact:</b> thomas.fay@univ-amu.fr<br>
+  <b>Contact:</b> thomas-patrick.fay@univ-amu.fr<br>
   </td>
 </tr>
 <tr>
