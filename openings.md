@@ -43,7 +43,7 @@ title: Openings
 <p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
   </tr>
   <tr>
-    <td class="tg-oe15"><img src="https://huixrotllant.github.io/images/asr3.png"/></td>
+    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank"><img src="https://huixrotllant.github.io/images/asr3.png"/></a></td>
     <td class="tg-oe15"><p align="justify"><b>Research software engineer position available: A 1-year research software engineer position is immediately available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The engineer will make a major contribution to the delivery of a professional software especially developed for large scale simulations of photoinduced processes at work in rhodopsin proteins for biochemical and biological applications like optogenetics. More details can be found here: <a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank">ANNOUNCEMENT</a></p>
 
 <p align="justify"><b>Profile:</b> Candidates must hold a PhD or an engineer degree in theoretical chemistry, theoretical physics or applied computer science. Previous experience in molecular modeling is desirable. Knowledge in modern scientific programming is required, especially in, but not limited, to Python or Fortran.</p>
