@@ -39,7 +39,7 @@ title: Openings
 <tbody>
   <tr>
     <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank"><img src="https://huixrotllant.github.io/images/electrophysiology.png"/></a></td>
-    <td class="tg-oe15"><p align="justify"><b>PhD funding for 3 years available (Deadline: 20/04/2024):</b> A full PhD funding is available in my group, on the simulation of voltage-dependent fluorescence of rhodopsines (click <a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank">here</a> for more details). A Master degree is required in the starting date of the PhD (October 2024) so last year Master students that will possess their diploma on September 2024 can apply. The funding is subject to a scientific selection committee, for which each candidate needs to defend its past research experience and education and the PhD project. Selections will be held in May/June 2024.</p>
+    <td class="tg-oe15"><p align="justify"><b>PhD funding for 3 years available (Deadline: 20/04/2024):</b> A full PhD funding is available in my group, on the simulation of voltage-dependent fluorescence of rhodopsines (click <a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank">here</a> for more details). A Master degree is required in the starting date of the PhD (October 2024) so last year Master students that will possess their diploma on September 2024 can apply. The funding is subject to a scientific selection committee. Selections will be held in May/June 2024.</p>
 <p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
   </tr>
   <tr>
