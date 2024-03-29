@@ -36,7 +36,19 @@
 <h1> News </h1>
 
 <table class="tg">
- <tr>
+
+<tr>
+  <td class="tg-oe15" width="25%">
+  <center>
+  <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   04/03/2024 - <b>New group member: Thomas Fay</b> <br>
+   Thomas Fay is joining our group as a post-doctoral researcher. His main research topic will be the development of new methodologies to describe enzymatic catalysis and photoactive proteins. Welcome to our group, Tom!
+  </td>
+</tr> 
+<tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/hiring.png" position="center" style="border-radius: 4px; width: 200px"/>
