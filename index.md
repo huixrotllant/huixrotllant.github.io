@@ -40,6 +40,29 @@
 <tr>
   <td class="tg-oe15" width="25%">
   <center>
+  <a href="http://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></a>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   24/02/2024 - <b>Article Accepted!</b> <br>
+ Our article on the analytic gradients for a QM/MM model in periodic boundary conditions has been accepted in J. Chem. Theor. Comput.! The equations are implemented in a GAMESS-US/Tinker8 interface that will be made available in the future. We computed free energy profiles for the torsion of proline giving excellent results. Great job by Simone Bonfrate. DOI: <a href="http://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank">10.1021/acs.jctc.4c00201</a>
+  </td>
+</tr>
+
+<tr>
+  <td class="tg-oe15" width="25%">
+  <center>
+  <image src="./images/dulce.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   15/04/2024 - <b>New group member: Dulce Trejo</b> <br>
+   Dulce Trejo is joining our group to perform a Master intership. Her main research topic will be the computation of free energies with MM and QM/MM methodologies. Welcome to our group, Dulce!
+  </td>
+</tr> 
+<tr>
+  <td class="tg-oe15" width="25%">
+  <center>
   <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
