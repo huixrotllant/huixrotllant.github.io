@@ -203,7 +203,19 @@ border: none;
   <b>Contact:</b> ujin.park@univ-amu.fr<br>
   </td>
 </tr>
-
+<tr>
+  <td width="25%">
+  <center>
+  <image src="./images/dulce.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Dulce Trejo <br>
+    <b>Master Student</b><br>
+  <br>
+  Internship<br>
+  </td>
+</tr>
   </table>    
 
 
