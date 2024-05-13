@@ -37,11 +37,11 @@ title: Openings
 <body>
 <table class="tg">
 <tbody>
-  <tr>
-    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank"><img src="https://huixrotllant.github.io/images/electrophysiology.png"/></a></td>
+<!--   <tr>
+   <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank"><img src="https://huixrotllant.github.io/images/electrophysiology.png"/></a></td>
     <td class="tg-oe15"><p align="justify"><b>PhD funding for 3 years available (Deadline: 20/04/2024):</b> A full PhD funding is available in my group, on the simulation of voltage-dependent fluorescence of rhodopsines (click <a href="https://amubox.univ-amu.fr/s/ZpKTDPM7X2Fc5ka" target="_blank">here</a> for more details). A Master degree is required in the starting date of the PhD (October 2024) so last year Master students that will possess their diploma on September 2024 can apply. The funding is subject to a scientific selection committee. Selections will be held in May/June 2024.</p>
 <p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank"><img src="https://huixrotllant.github.io/images/asr3.png"/></a></td>
     <td class="tg-oe15"><p align="justify"><b>Research software engineer position available:</b> A 1-year research software engineer position is immediately available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The engineer will make a major contribution to the delivery of a professional software especially developed for large scale simulations of photoinduced processes at work in rhodopsin proteins for biochemical and biological applications like optogenetics. More details can be found here: <a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank">ANNOUNCEMENT</a></p>
