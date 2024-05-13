@@ -36,14 +36,14 @@ title: Publications
   <div data-csl-entry-id="AliasRodriguez2024" class="csl-entry">
     <div class="csl-right-inline">[54] Alias-Rodríguez, M.; Huix-Rotllant, M. <i>Control of the Iron-Tris(2,2’-Bipyridine) Light-Induced Excited-State Trapping via External Electromagnetic Fields</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
-  <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
-    <div class="csl-right-inline">[53] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M. <i>Analytic Gradients for the Electrostatic Embedding QM/MM in Periodic Boundary Conditions Using Particle-Mesh Ewald Sums and Electrostatic Potential Fitted Charge Operators</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. Pre-print: <a href="https://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank">10.26434/chemrxiv-2024-5tzsf</a>
-</div><br>
-  </div>
   <div data-csl-entry-id="Fall2024" class="csl-entry">
-    <div class="csl-right-inline">[52] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Huix-Rotllant, M.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
+    <div class="csl-right-inline">[53] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Huix-Rotllant, M.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
 <h1>Accepted</h1>
+  <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
+    <div class="csl-right-inline">[52] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M. <i>Analytic Gradients for the Electrostatic Embedding QM/MM in Periodic Boundary Conditions Using Particle-Mesh Ewald Sums and Electrostatic Potential Fitted Charge Operators</i>. J. Comp. Theor. Comput. <i>XXX</i>, XXX, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank">10.1021/acs.jctc.4c00201</a>
+</div><br>
+  </div>
   <div data-csl-entry-id="Barends2024" class="csl-entry">
     <div class="csl-right-inline">[51] Barends, T. R. M.; Bhattacharyya, S.; Gorel, A.; Schiro, G.; Bacellar, C.; Cirelli, C.; Colletier, J.-P.; Foucar, L.; Grünbein, M. L.; Hartmann, E.; Hilpert, M.; Johnson, P. J. M.; Kloos, M.; Knopp, G.; Marekha, B.; Nass, K.; Kovacs, G. N.; Ozerov, D.; Stricker, M.; Weik, M.; Doak, R. B.; Shoeman, R. L.; Milne, C. J.; Huix-Rotllant, M.; Cammarata, M.; Schlichting, I. <i>Influence of Pump Laser Fluence on Ultrafast Structural Changes in Myoglobin</i>. Nature <i>626</i>, 905–911, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank">10.1038/s41586-024-07032-9</a>.</div><br>
   </div>
