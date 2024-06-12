@@ -37,6 +37,19 @@
 
 <table class="tg">
 
+
+<tr>
+  <td class="tg-oe15" width="25%">
+  <center>
+  <a href="http://dx.doi.org/10.1002/cphc.202400471" target="_blank"><image src="./images/control.png" position="center" style="border-radius: 4px; width: 200px"/></a>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   29/05/2024 - <b>Article Accepted!</b> <br>
+ Our article on the control of the photochemistry of iron tris-bipyridine by external electromagnetic fields has been accepted in ChemPhysChem! We show that vibrational pump / UV pump can trap the population in the MLCT band. Great job by Marc Alías-Rodríguez. DOI: <a href="http://dx.doi.org/10.1002/cphc.202400471" target="_blank">10.1002/cphc.202400471</a>
+  </td>
+</tr>
+
 <tr>
   <td class="tg-oe15" width="25%">
   <center>
