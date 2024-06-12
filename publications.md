@@ -33,15 +33,18 @@ title: Publications
   <div data-csl-entry-id="Park2024" class="csl-entry">
     <div class="csl-right-inline">[55] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C. H. <i>Dark State Lifetime Determines GFP Fluorescence</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
-  <div data-csl-entry-id="AliasRodriguez2024" class="csl-entry">
-    <div class="csl-right-inline">[54] Alias-Rodríguez, M.; Huix-Rotllant, M. <i>Control of the Iron-Tris(2,2’-Bipyridine) Light-Induced Excited-State Trapping via External Electromagnetic Fields</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
-  </div>
   <div data-csl-entry-id="Fall2024" class="csl-entry">
-    <div class="csl-right-inline">[53] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Huix-Rotllant, M.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
+    <div class="csl-right-inline">[54] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Huix-Rotllant, M.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
   </div>
 <h1>Accepted</h1>
+  <div data-csl-entry-id="Park2024" class="csl-entry">
+    <div class="csl-right-inline">[53] Park, W.; Lashakripour, A. ; Komarov, K. ; Lee, S. ; Huix-Rotllant, M. ; Choi, C. H. <i>Toward Consistent Predictions of Core/Valence Ionization Potentials and Valence Excitation Energies by MRSF-TDDFT</i>. J. Chem. Theor. Comput. <i>XXX</i>, XXX, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="" target="_blank"></a></div><br>
+  </div>
+  <div data-csl-entry-id="AliasRodriguez2024" class="csl-entry">
+    <div class="csl-right-inline">[53] Alias-Rodríguez, M.; Huix-Rotllant, M. <i>Control of the Iron-Tris(2,2’-Bipyridine) Light-Induced Excited-State Trapping via External Electromagnetic Fields</i>. ChemPhysChem <i>XXX</i>, XXX, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1002/cphc.202400471" target="_blank">10.1002/cphc.202400471</a></div><br>
+  </div>
   <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
-    <div class="csl-right-inline">[52] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M. <i>Analytic Gradients for the Electrostatic Embedding QM/MM in Periodic Boundary Conditions Using Particle-Mesh Ewald Sums and Electrostatic Potential Fitted Charge Operators</i>. J. Comp. Theor. Comput. <i>XXX</i>, XXX, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank">10.1021/acs.jctc.4c00201</a>
+    <div class="csl-right-inline">[52] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M. <i>Analytic Gradients for the Electrostatic Embedding QM/MM in Periodic Boundary Conditions Using Particle-Mesh Ewald Sums and Electrostatic Potential Fitted Charge Operators</i>. J. Comp. Theor. Comput. <i>20</i>, 4338–4349, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank">10.1021/acs.jctc.4c00201</a>
 </div><br>
   </div>
   <div data-csl-entry-id="Barends2024" class="csl-entry">
