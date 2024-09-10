@@ -32,11 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Barreiro2024" class="csl-entry">
-    <div class="csl-right-inline">[57] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a></div><br>
+    <div class="csl-right-inline">[57] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a></div><br>
   </div>
   <div data-csl-entry-id="Miranov2024" class="csl-entry">
-    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
-    <br>DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-k846p" target="_blank">10.26434/chemrxiv-2024-k846p</a></div><br>
+    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-k846p" target="_blank">10.26434/chemrxiv-2024-k846p</a></div><br>
   </div>
   <div data-csl-entry-id="Fall2024" class="csl-entry">
     <div class="csl-right-inline">[55] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Huix-Rotllant, M.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
