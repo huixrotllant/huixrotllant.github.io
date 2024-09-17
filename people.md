@@ -223,7 +223,8 @@ border: none;
 <ul>
 <li> Darío Barreiro-Lage, Post-Doctoral fellow, 2024 </li>
 <li> Marc Alías-Rodríguez, Post-Doctoral fellow, 2022-2024 </li>
-<li> Dulce Trejo, 1st year Master internship, 2022-2024 </li>
+<li> Omar Guireev, 2nd year Bachelor internship, 2024 </li>
+<li> Dulce Trejo, 1st year Master internship, 2024 </li>
 <li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
 <li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
 <li> Johanna Guazelli, 2nd year Bachelor internship, 2020 </li>
