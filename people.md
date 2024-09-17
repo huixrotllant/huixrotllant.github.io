@@ -79,7 +79,7 @@ border: none;
   </td>
 </tr>
 
-<tr>
+<!-- <tr>
   <td width="25%">
   <center>
   <image src="./images/marc.png" position="center" style="border-radius: 4px; width: 200px"/>
@@ -106,9 +106,9 @@ border: none;
   <b>Project:</b> ANR MULTICROSS<br>
   <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
   </td>
-</tr>
+</tr> -->
     
-<tr>
+<!-- <tr>
   <td width="25%">
   <center>
   <image src="./images/dario.png" position="center" style="border-radius: 4px; width: 200px"/>
@@ -121,8 +121,8 @@ border: none;
   <b>Project:</b> ANR ULTRARCHEA<br>
   <b>Contact:</b> dario.barreiro-lage@univ-amu.fr<br>
   </td>
-</tr>
-    <tr>
+</tr> -->
+  <tr>
   <td width="25%">
   <center>
       <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -203,7 +203,7 @@ border: none;
   <b>Contact:</b> ujin.park@univ-amu.fr<br>
   </td>
 </tr>
-<tr>
+<!-- <tr>
   <td width="25%">
   <center>
   <image src="./images/dulce.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -215,15 +215,18 @@ border: none;
   <br>
   Internship<br>
   </td>
-</tr>
+</tr> -->
   </table>    
 
 
 <h1>Alumni</h1> 
 <ul>
+<li> Darío Barreiro-Lage, Post-Doctoral fellow, 2024 </li>
+<li> Marc Alías-Rodríguez, Post-Doctoral fellow, 2022-2024 </li>
+<li> Dulce Trejo, 1st year Master internship, 2022-2024 </li>
 <li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
 <li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
-<li> Johanna Guazelli, Bachelor, 2020 </li>
+<li> Johanna Guazelli, 2nd year Bachelor internship, 2020 </li>
 <li> Karno Schwinn, PhD student, 2018-2020 </li>
 <li> Padmabati Mondal, Post-Doctoral fellow, 2018-2018</li>
 </ul>
