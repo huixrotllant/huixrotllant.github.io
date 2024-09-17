@@ -31,6 +31,9 @@ title: Publications
     <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
+  <div data-csl-entry-id="Fay2024" class="csl-entry">
+    <div class="csl-right-inline">[60] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
+  </div>
   <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
     <div class="csl-right-inline">[59] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!--DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a>--> </div><br>
   </div>
