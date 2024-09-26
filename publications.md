@@ -32,6 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Fay2024" class="csl-entry">
+    <div class="csl-right-inline">[61] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C.; <i>Temperature Controlled Decay and Pendulum Dynamics of Green Fluorescent Protein (GFP) Chromophore</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
+  </div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Fay2024" class="csl-entry">
     <div class="csl-right-inline">[60] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
   </div>
   <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
