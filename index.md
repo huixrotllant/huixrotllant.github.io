@@ -37,6 +37,17 @@
 
 <table class="tg">
 
+<tr>
+  <td class="tg-oe15" width="25%">
+  <center>
+  <image src="./images/isabel.jpg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   01/10/2024 - <b>New group member: Isabel Eder</b> <br>
+   Isabel Eder is joining our group to perform her PhD project. Her main research topic will be the simulations of electric field effects on the photodynamics of rhodopsins. Welcome to our group, Isabel!
+  </td>
+</tr>
 
 <tr>
   <td class="tg-oe15" width="25%">
@@ -62,7 +73,7 @@
   </td>
 </tr>
 
-<tr>
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/dulce.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -72,8 +83,8 @@
    15/04/2024 - <b>New group member: Dulce Trejo</b> <br>
    Dulce Trejo is joining our group to perform a Master intership. Her main research topic will be the computation of free energies with MM and QM/MM methodologies. Welcome to our group, Dulce!
   </td>
-</tr> 
-<tr>
+</tr> -->
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -83,8 +94,8 @@
    04/03/2024 - <b>New group member: Thomas Fay</b> <br>
    Thomas Fay is joining our group as a post-doctoral researcher. His main research topic will be the development of new methodologies to describe enzymatic catalysis and photoactive proteins. Welcome to our group, Tom!
   </td>
-</tr> 
-<tr>
+</tr> -->
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/hiring.png" position="center" style="border-radius: 4px; width: 200px"/>
@@ -94,8 +105,9 @@
    24/02/2024 - <b>We are hiring!</b> <br>
    New openings for PhD and post-doc positions are available in our group. Visit <a href="https://huixrotllant.github.io/openings.html" target="_blank">openings</a> for more information on the current oportunities in our group.
   </td>
-</tr> 
-<tr>
+</tr> --> 
+
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <a href="https://huixrotllant.github.io"><image src="./images/relooking.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -105,8 +117,9 @@
    24/02/2024 - <b>New website</b> <br>
   We updated the website of the Huix-Rotllant Research group. The webpage is still under construction. Find the news of our group from now on in <a href="https://huixrotllant.github.io">https://huixrotllant.github.io</a>.
   </td>
-</tr>
-<tr>
+</tr> -->
+    
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -116,8 +129,9 @@
    24/02/2024 - <b>New preprint available</b> <br>
   We submitted a new manuscript in which we derived the analytic gradients for a QM/MM model in periodic boundary conditions. The equations are implemented in a GAMESS-US/Tinker8 interface that will be made available in the future. We computed free energy profiles for the torsion of proline giving excellent results. Great job by Simone Bonfrate. DOI: <a href="http://dx.doi.org/10.26434/chemrxiv-2024-5tzsf" target="_blank">10.26434/chemrxiv-2024-5tzsf</a>
   </td>
-</tr>
-<tr>
+</tr> -->
+
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -127,8 +141,9 @@
    20/02/2024 - <b>New group member: Woojin Park</b> <br>
    Woojin Park is a PhD student from Kyungpook National University, working under the supervision of Prof. Cheol Ho Choi. He will stay for one year in our group thanks to a Korean National Research Foundation fellowship. His main interests are quantum dynamics and time-resolved spectroscopy of photoactive molecules in condensed phase. Welcome to our group Woojin!
   </td>
-</tr>
-<tr>
+</tr> -->
+
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank"><image src="./images/nature.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -138,7 +153,7 @@
    14/02/2024 - <b>New article published in Nature</b> <br>
    Time-resolved serial femtosecond X-ray crystallography confirms the carbon monoxide photolysis mechanism that we predicted in 2018 (see our <a href="http://dx.doi.org/10.1038/s41467-018-06615-1" target="_blank">Nat. Comm.</a>). The dissociation occurs in less than 100 fs and coherent motions of the CO and the protein cavity are observed. Excellent collaboration between many people lead by Ilme Schlichting. This study is now published in <b>Nature</b> 626, 905–911 (2024). DOI: <a href="http://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank">10.1038/s41586-024-07032-9</a>
   </td>
-</tr>
+</tr> -->
 </table>
 </body>
 </html>
