@@ -179,6 +179,33 @@ border: none;
 <tr>
   <td width="25%">
   <center>
+  <image src="./images/isabel.jpg" position="center" style="border-radius: 4px; width: 200px"/>
+  </center>
+  </td>
+  <td>
+   Isabel Eder <br>
+    <b>PhD Student</b>
+  <br>
+   <!--  <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-4820-7444"
+     target="_blank"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      0000-0002-4820-7444
+    </a> <br> -->
+  <b>Project:</b> ANR ULTRARCHEA<br>
+  <b>Contact:</b> isabel.eder@univ-amu.fr<br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
   <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
