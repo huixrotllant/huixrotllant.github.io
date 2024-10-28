@@ -47,14 +47,14 @@ title: Publications
   <div data-csl-entry-id="Barreiro2024" class="csl-entry">
     <div class="csl-right-inline">[57] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a></div><br>
   </div>
-  <div data-csl-entry-id="Miranov2024" class="csl-entry">
-    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-k846p" target="_blank">10.26434/chemrxiv-2024-k846p</a></div><br>
-  </div>
-  <div data-csl-entry-id="Fall2024" class="csl-entry">
-    <div class="csl-right-inline">[55] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Huix-Rotllant, M.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
-  </div>
   <!-- Accepted articles-->
 <h1>Accepted</h1>
+    <div data-csl-entry-id="Miranov2024" class="csl-entry">
+    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. J. Chem. Theor. Comput. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c01117" target="_blank">10.1021/acs.jctc.4c01117</a></div><br>
+  </div>
+  <div data-csl-entry-id="Fall2024" class="csl-entry">
+    <div class="csl-right-inline">[55] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Huix-Rotllant, M.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. Macromol. Rapid Commun. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>.</div><br>
+  </div>
   <div data-csl-entry-id="Park2024" class="csl-entry">
     <div class="csl-right-inline">[54] Park, W.; Lashakripour, A. ; Komarov, K. ; Lee, S. ; Huix-Rotllant, M. ; Choi, C. H. <i>Toward Consistent Predictions of Core/Valence Ionization Potentials and Valence Excitation Energies by MRSF-TDDFT</i>. J. Chem. Theor. Comput. <i>20</i>, 5679-5694, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c00640" target="_blank">10.1021/acs.jctc.4c00640</a></div><br>
   </div>
