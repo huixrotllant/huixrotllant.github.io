@@ -32,23 +32,23 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[61] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C.; <i>Temperature Controlled Decay and Pendulum Dynamics of Green Fluorescent Protein (GFP) Chromophore</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
-  </div>
-<div class="csl-bib-body">
-  <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[60] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
+    <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
   </div>
   <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
-    <div class="csl-right-inline">[59] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!--DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a>--> </div><br>
+    <div class="csl-right-inline">[60] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!--DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a>--> </div><br>
   </div>
   <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[58] Fay, T.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> </div><br>
+    <div class="csl-right-inline">[59] Fay, T.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> </div><br>
   </div>
   <div data-csl-entry-id="Barreiro2024" class="csl-entry">
-    <div class="csl-right-inline">[57] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a></div><br>
+    <div class="csl-right-inline">[58] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a></div><br>
   </div>
   <!-- Accepted articles-->
 <h1>Accepted</h1>
+  <div class="csl-bib-body">
+  <div data-csl-entry-id="Fay2024" class="csl-entry">
+    <div class="csl-right-inline">[57] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C.; <i>Temperature Controlled Decay and Pendulum Dynamics of Green Fluorescent Protein (GFP) Chromophore</i>. J. Chem. Phys. Lett. (2024) <b><span style="font-weight:normal;"><b>2024</b></span></b>.  DOI: <a href="https://doi.org/10.1021/acs.jpclett.4c02761" target="_blank">10.1021/acs.jpclett.4c02761</a> </div><br>
+  </div>
     <div data-csl-entry-id="Miranov2024" class="csl-entry">
     <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. J. Chem. Theor. Comput. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c01117" target="_blank">10.1021/acs.jctc.4c01117</a></div><br>
   </div>
