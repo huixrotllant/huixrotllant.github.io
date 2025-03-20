@@ -50,7 +50,7 @@ title: Openings
 
 <p align="justify"><b>Apply:</b> Send your CV to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position in Marseille (France)">miquel.huix-rotllant@cnrs.fr</a> and I will contact you asap.</p>
 
-<p align="justify"><b>Status:</b> <pa style="color: green"><b>OPEN</b></a></p>
+<p align="justify"><b>Status:</b> <a style="color: green"><b>OPEN</b></a></p>
 </td>
   </tr>
   
