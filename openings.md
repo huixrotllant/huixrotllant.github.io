@@ -43,14 +43,14 @@ title: Openings
 <p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
   </tr> -->
   <tr>
-    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/5pqGw2wSWHWPLZy" target="_blank"><img src="https://huixrotllant.github.io/images/41467_2022_33695_MOESM12_ESM.gif"/></a></td>
-    <td class="tg-oe15"><p align="justify"><b>PhD position available:</b> A 3-year PhD position position is available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The three-year PhD project deals with extracting quantum yields from excited state quantum dynamics of molecular motors in the condensed phase. The starting date is 1st October 2025. More details can be found here: <a href="https://amubox.univ-amu.fr/s/5pqGw2wSWHWPLZy" target="_blank">ANNOUNCEMENT</a></p>
+    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/cLK9wTjzWicLdqX" target="_blank"><img src="https://huixrotllant.github.io/images/41467_2022_33695_MOESM12_ESM.gif"/></a></td>
+    <td class="tg-oe15"><p align="justify"><b>PhD position available:</b> A 3-year PhD position position is available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The three-year PhD project deals with extracting quantum yields from excited state quantum dynamics of molecular motors in the condensed phase. The starting date is 1st October 2025. More details can be found here: <a href="https://amubox.univ-amu.fr/s/cLK9wTjzWicLdqX" target="_blank">ANNOUNCEMENT</a></p>
 
 <p align="justify"><b>Profile:</b> Candidates holding a Master degree in Chemistry or Physics, with strong background in theoretical developments. Experience with excited state and/or molecular dynamics modelling is desired. Ability to work independently and in an international consortium.</p>
 
 <p align="justify"><b>Apply:</b> Send your CV to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position in Marseille (France)">miquel.huix-rotllant@cnrs.fr</a> and I will contact you asap.</p>
 
-<p align="justify"><b>Status:</b> <p style="color: green"><b>OPEN</b></p></p>
+<p align="justify"><b>Status:</b> <pa style="color: green"><b>OPEN</b></a></p>
 </td>
   </tr>
   
