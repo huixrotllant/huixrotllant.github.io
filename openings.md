@@ -43,18 +43,20 @@ title: Openings
 <p align="justify"><b>Apply:</b> Contact <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position">miquel.huix-rotllant@cnrs.fr</a> with a detailed CV and your motivation letter.</p></td>
   </tr> -->
   <tr>
-    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank"><img src="https://huixrotllant.github.io/images/asr3.png"/></a></td>
-    <td class="tg-oe15"><p align="justify"><b>Research software engineer position available:</b> A 1-year research software engineer position is immediately available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The engineer will make a major contribution to the delivery of a professional software especially developed for large scale simulations of photoinduced processes at work in rhodopsin proteins for biochemical and biological applications like optogenetics. More details can be found here: <a href="https://amubox.univ-amu.fr/s/5HxpRNwjsRTs2dc" target="_blank">ANNOUNCEMENT</a></p>
+    <td class="tg-oe15"><a href="https://amubox.univ-amu.fr/s/5pqGw2wSWHWPLZy" target="_blank"><img src="https://huixrotllant.github.io/images/41467_2022_33695_MOESM12_ESM.gif"/></a></td>
+    <td class="tg-oe15"><p align="justify"><b>PhD position available:</b> A 3-year PhD position position is available in Aix-Marseille University, Institut de Chimie Radicalaire, Marseille, France. The three-year PhD project deals with extracting quantum yields from excited state quantum dynamics of molecular motors in the condensed phase. The starting date is 1st October 2025. More details can be found here: <a href="https://amubox.univ-amu.fr/s/5pqGw2wSWHWPLZy" target="_blank">ANNOUNCEMENT</a></p>
 
-<p align="justify"><b>Profile:</b> Candidates must hold a PhD or an engineer degree in theoretical chemistry, theoretical physics or applied computer science. Previous experience in molecular modeling is desirable. Knowledge in modern scientific programming is required, especially in, but not limited, to Python or Fortran.</p>
+<p align="justify"><b>Profile:</b> Candidates holding a Master degree in Chemistry or Physics, with strong background in theoretical developments. Experience with excited state and/or molecular dynamics modelling is desired. Ability to work independently and in an international consortium.</p>
 
-<p align="justify"><b>Apply:</b> Send your CV to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to research engineer position in Marseille (France)">miquel.huix-rotllant@cnrs.fr</a> and we will contact you asap.</p>
+<p align="justify"><b>Apply:</b> Send your CV to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to PhD position in Marseille (France)">miquel.huix-rotllant@cnrs.fr</a> and I will contact you asap.</p>
+
+<p align="justify"><b>Status:</b> <p style="color: green"><b>OPEN</b></p></p>
 </td>
   </tr>
   
   <tr>
-    <td class="tg-oe15"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024" target="_blank"><img src="https://marie-sklodowska-curie-actions.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"/></a></td>
-    <td class="tg-oe15"><p align="justify"><b>MSCA post-doctoral funding (Deadline: 11 September 2024):</b> The Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2024 are open. We support candidatures for this action. More information can be found here: <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024" target="_blank">https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024</a></p>
+    <td class="tg-oe15"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025" target="_blank"><img src="https://marie-sklodowska-curie-actions.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--en.svg"/></a></td>
+    <td class="tg-oe15"><p align="justify"><b>MSCA post-doctoral funding (Deadline: 10 September 2025):</b> The Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2025 open on 8th May 2025. We support candidatures for this action. More information can be found here: <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024" target="_blank">https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025</a></p>
 <p align="justify"><b>Apply:</b> Send a full CV with publications and referees that have worked with you in the past along with a motivation letter to <a href="mailto:miquel.huix-rotllant@univ-amu.fr?subject=Application to MSCA post-doctoral fellowship">miquel.huix-rotllant@cnrs.fr</a>.
   </tr>
 </tbody>
