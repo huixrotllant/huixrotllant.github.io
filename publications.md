@@ -38,7 +38,7 @@ title: Publications
 <h1>Accepted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. Bull. Korean Chem. Soc. <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/bkcs.70011" target="_blank">10.1002/bkcs.70011</a> </div><br>
+    <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. Bull. Korean Chem. Soc., <i>46</i>, 330-346, <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/bkcs.70011" target="_blank">10.1002/bkcs.70011</a> </div><br>
   </div>
   <div data-csl-entry-id="Bonfrate2025" class="csl-entry">
     <div class="csl-right-inline">[60] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. J. Comput. Chem, <i>46</i>, e70107 <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/jcc.70107" target="_blank">10.1002/jcc.70107</a> </div><br>
