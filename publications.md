@@ -225,6 +225,9 @@ title: Publications
   </div>
 </div>
 <h1>Book chapters</h1>
+  <div data-csl-entry-id="HuixRotllant2025" class="csl-entry">
+    <div class="csl-right-inline">[2] Lee, S.; Huix-Rotllant, M.; Choi, C. <i> Time-Dependent DFT: development, future perspectives, applications</i>; Kuznetsov, A. E., Eds.; Density Functional Theory: Current Trends and Applixations; Elsevier, <b>2025</b>; ISBN: <a href="https://shop.elsevier.com/books/density-functional-theory/kuznetsov/978-0-443-18977-7" target="_blank">978-0-443-18977-7</a>.</div><br>
+  </div>
   <div data-csl-entry-id="HuixRotllant2020" class="csl-entry">
     <div class="csl-right-inline">[1] Huix-Rotllant, M.; Ferré, N.; Barbatti, M. <i>Time-Dependent Density Functional Theory: From Fundamentals to Non-Adiabatic Dynamics</i>; González, L., Lindh, R., Eds.; Quantum Chemistry and Dynamics of Excited States: Methods and Applications; Wiley, <b>2020</b>; pp 13–46. DOI: <a href="https://dx.doi.org/10.1002/9781119417774.ch2" target="_blank">10.1002/9781119417774.ch2</a>.</div><br>
   </div>
