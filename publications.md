@@ -30,30 +30,35 @@ title: Publications
 <body>
     <!-- Submitted articles-->
 <h1>Submitted</h1>
-<div class="csl-bib-body">
-  <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!-- DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> --> </div><br>
+  <div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[62] Huix-Rotllant, M.; Park, W.; Mazaherifar, M.; Choi, C.; <i>EAssessing Spin-flip Time-Dependent Density-Functional Based Tight-Binding For Describing Z/E Photoisomerisation Reactions</i>. (submitted) <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2025-4rdbn" target="_blank">10.26434/chemrxiv-2025-4rdbn</a> </div><br>
   </div>
-  <div data-csl-entry-id="Bonfrate2024" class="csl-entry">
-    <div class="csl-right-inline">[60] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. <!--DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-2j8mx" target="_blank">10.26434/chemrxiv-2024-2j8mx</a>--> </div><br>
+</div>
+<h1>Accepted</h1>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. Bull. Korean Chem. Soc. <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/bkcs.70011" target="_blank">10.1002/bkcs.70011</a> </div><br>
+  </div>
+  <div data-csl-entry-id="Bonfrate2025" class="csl-entry">
+    <div class="csl-right-inline">[60] Bonfrate, S.; Park, W.; Trejo, D.; Ferré, N.; Choi, C.; Huix-Rotllant, M.; <i>Assessment of free energies from electrostatic embedding density functional tight binding-based/molecular mechanics in periodic boundary conditions</i>. J. Comput. Chem, <i>46</i>, e70107 <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/jcc.70107" target="_blank">10.1002/jcc.70107</a> </div><br>
   </div>
       <!-- Accepted articles-->
   <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[59] Fay, T.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators</i>. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.48550/arXiv.2409.10483" target="_blank">10.48550/arXiv.2409.10483</a> </div><br>
+    <div class="csl-right-inline">[59] Fay, T.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators</i>. J. Chem. Theory Comput., <i>21</i>, 183–201 <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c01219" target="_blank">10.1021/acs.jctc.4c01219</a> </div><br>
   </div>
   <div data-csl-entry-id="Barreiro2024" class="csl-entry">
-    <div class="csl-right-inline">[58] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. (submitted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jpcb.4c05962" target="_blank">10.1021/acs.jpcb.4c05962</a></div><br>
+    <div class="csl-right-inline">[58] Barreiro-Lage, D.; Ledentu, V.; D'Ascenzi, J.; Huix-Rotllant, M.; Ferré, N.; <i>Investigating the origin of Automatic Rhodopsin Modeling outliers using the microbial Gloeobacter rhodopsin as testbed</i>. J. Phys. Chem. B, <i>128</i>, 12368–12378 <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jpcb.4c05962" target="_blank">10.1021/acs.jpcb.4c05962</a></div><br>
   </div>
-<h1>Accepted</h1>
   <div class="csl-bib-body">
   <div data-csl-entry-id="Fay2024" class="csl-entry">
-    <div class="csl-right-inline">[57] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C.; <i>Temperature Controlled Decay and Pendulum Dynamics of Green Fluorescent Protein (GFP) Chromophore</i>. J. Chem. Phys. Lett. <b><span style="font-weight:normal;"><b>2024</b></span></b>.  DOI: <a href="https://doi.org/10.1021/acs.jpclett.4c02761" target="_blank">10.1021/acs.jpclett.4c02761</a> </div><br>
+    <div class="csl-right-inline">[57] Park, W.; Oh, J.; Kim, J.; Lee, S.; Kim, J. H.; Huix-Rotllant, M.; Kim, D.; Choi, C.; <i>Temperature Controlled Decay and Pendulum Dynamics of Green Fluorescent Protein (GFP) Chromophore</i>. J. Chem. Phys. Lett., <i>15</i>, 11468–11475 <b><span style="font-weight:normal;"><b>2024</b></span></b>.  DOI: <a href="https://doi.org/10.1021/acs.jpclett.4c02761" target="_blank">10.1021/acs.jpclett.4c02761</a> </div><br>
   </div>
     <div data-csl-entry-id="Miranov2024" class="csl-entry">
-    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. J. Chem. Theor. Comput. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c01117" target="_blank">10.1021/acs.jctc.4c01117</a></div><br>
+    <div class="csl-right-inline">[56] Mironov, V.; Komarov, K.; Li, J.; Gerasimov, I.; Nakata, H.; Mazaheri, M.; Ishimura, K.; Park, W.; Lashkaripour, A.; Oh, M.; Huix-Rotllant, M.; Lee, S.; Choi, C. H.; <i>OpenQP: A Quantum Chemical Platform Featuring MRSF-TDDFT with an Emphasis on Open-source Ecosystem</i>. J. Chem. Theor. Comput. <i>20</i>, 9464–9477 <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c01117" target="_blank">10.1021/acs.jctc.4c01117</a></div><br>
   </div>
   <div data-csl-entry-id="Fall2024" class="csl-entry">
-    <div class="csl-right-inline">[55] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Huix-Rotllant, M.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. Macromol. Rapid Commun. (accepted) <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1002/marc.202400710" target="_blank">10.1002/marc.202400710</a></div><br>
+    <div class="csl-right-inline">[55] Fall, A.; Tintori, G.; Rollet, M.; Zhao, Y.; Charles, L.; Berge-Lefranc, D.; Clément, J.-L.; Redon, S.; Gigmes, D.; Vanelle, P.; Huix-Rotllant, M.; Broggi, J. <i>α-Trifluoromethylated Quinolines as Air-Stable and Safe PET-Donor for Radical Polymerizations</i>. Macromol. Rapid Commun. <i>46</i>, 2400710 <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1002/marc.202400710" target="_blank">10.1002/marc.202400710</a></div><br>
   </div>
   <div data-csl-entry-id="Park2024" class="csl-entry">
     <div class="csl-right-inline">[54] Park, W.; Lashakripour, A. ; Komarov, K. ; Lee, S. ; Huix-Rotllant, M. ; Choi, C. H. <i>Toward Consistent Predictions of Core/Valence Ionization Potentials and Valence Excitation Energies by MRSF-TDDFT</i>. J. Chem. Theor. Comput. <i>20</i>, 5679-5694, <b><span style="font-weight:normal;"><b>2024</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.4c00640" target="_blank">10.1021/acs.jctc.4c00640</a></div><br>
