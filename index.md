@@ -36,7 +36,7 @@
 <h1> News </h1>
 
 <table class="tg">
-
+<tr>
 <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.1007/s00214-025-03198-1" target="_blank"><image src="./images/sftddftb.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -47,7 +47,7 @@
  Our article on the development and implementation of spin-flip time-dependent density-based tight binding method has been accepted. We show that this new semi-empirical method can accurately describe <i>Z/E</i> photoisomerisation reactions of large molecular systems. DOI: <a href="http://dx.doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>
   </td>
 </tr>
-
+<tr>
 <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.1002/jcc.70107" target="_blank"><image src="./images/dftbmm.png" position="center" style="border-radius: 4px; width: 200px"/></a>
