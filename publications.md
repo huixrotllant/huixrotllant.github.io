@@ -29,13 +29,13 @@ title: Publications
 </style>
 <body>
     <!-- Submitted articles-->
-<h1>Submitted</h1>
+<!--<h1>Submitted</h1>-->
+<h1>Accepted</h1>
   <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[62] Huix-Rotllant, M.; Park, W.; Mazaherifar, M.; Choi, C.; <i>EAssessing Spin-flip Time-Dependent Density-Functional Based Tight-Binding For Describing Z/E Photoisomerisation Reactions</i>. (submitted) <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2025-4rdbn" target="_blank">10.26434/chemrxiv-2025-4rdbn</a> </div><br>
+    <div class="csl-right-inline">[62] Huix-Rotllant, M.; Park, W.; Mazaherifar, M.; Choi, C.; <i>EAssessing Spin-flip Time-Dependent Density-Functional Based Tight-Binding For Describing Z/E Photoisomerisation Reactions</i>. Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a> </div><br>
   </div>
 </div>
-<h1>Accepted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
     <div class="csl-right-inline">[61] Lee, S.; Park, W.; Komarov, K.; Farmani, M.; Mironov, V.; Nakata, H.; Lashakripour, A.; Zeng, T.; Huix-Rotllant, M.; Choi, C.; <i>Expanding Horizons in Quantum Chemical Studies: The Versatile Power of MRSF-TDDFT</i>. Bull. Korean Chem. Soc., <i>46</i>, 330-346, <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1002/bkcs.70011" target="_blank">10.1002/bkcs.70011</a> </div><br>
