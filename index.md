@@ -37,7 +37,29 @@
 
 <table class="tg">
 
-<tr>
+<td class="tg-oe15" width="25%">
+  <center>
+  <a href="http://dx.doi.org/10.1007/s00214-025-03198-1" target="_blank"><image src="./images/sftddftb.png" position="center" style="border-radius: 4px; width: 200px"/></a>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   26/05/2025 - <b>Article Accepted!</b> <br>
+ Our article on the development and implementation of spin-flip time-dependent density-based tight binding method has been accepted. We show that this new semi-empirical method can accurately describe <i>Z/E</i> photoisomerisation reactions of large molecular systems. DOI: <a href="http://dx.doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>
+  </td>
+</tr>
+
+<td class="tg-oe15" width="25%">
+  <center>
+  <a href="http://dx.doi.org/10.1002/jcc.70107" target="_blank"><image src="./images/dftbmm.png" position="center" style="border-radius: 4px; width: 200px"/></a>
+  </center>
+  </td>
+  <td class="tg-oe15">
+   22/04/2025 - <b>Article Accepted!</b> <br>
+ Our extension of QM/MM in periodic boundary conditions of semi-empirical methods is finally out. We show that DFTB/MM can fast an accurately describe free energy profiles of several reactions in solution such as isomerisations, proton transfer and nucleophilic substitutions. DOI: <a href="http://dx.doi.org/10.1002/jcc.70107" target="_blank">10.1002/jcc.70107</a>
+  </td>
+</tr>
+
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <image src="./images/isabel.jpg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -47,9 +69,9 @@
    01/10/2024 - <b>New group member: Isabel Eder</b> <br>
    Isabel Eder is joining our group to perform her PhD project. Her main research topic will be the simulations of electric field effects on the photodynamics of rhodopsins. Welcome to our group, Isabel!
   </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.1002/cphc.202400471" target="_blank"><image src="./images/control.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -59,9 +81,9 @@
    29/05/2024 - <b>Article Accepted!</b> <br>
  Our article on the control of the photochemistry of iron tris-bipyridine by external electromagnetic fields has been accepted in ChemPhysChem! We show that vibrational pump / UV pump can trap the population in the MLCT band. Great job by Marc Alías-Rodríguez. DOI: <a href="http://dx.doi.org/10.1002/cphc.202400471" target="_blank">10.1002/cphc.202400471</a>
   </td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
   <a href="http://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank"><image src="./images/preprint240224.png" position="center" style="border-radius: 4px; width: 200px"/></a>
@@ -71,7 +93,7 @@
    24/02/2024 - <b>Article Accepted!</b> <br>
  Our article on the analytic gradients for a QM/MM model in periodic boundary conditions has been accepted in J. Chem. Theor. Comput.! The equations are implemented in a GAMESS-US/Tinker8 interface that will be made available in the future. We computed free energy profiles for the torsion of proline giving excellent results. Great job by Simone Bonfrate. DOI: <a href="http://dx.doi.org/10.1021/acs.jctc.4c00201" target="_blank">10.1021/acs.jctc.4c00201</a>
   </td>
-</tr>
+</tr> -->
 
 <!-- <tr>
   <td class="tg-oe15" width="25%">
