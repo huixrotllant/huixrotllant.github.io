@@ -29,11 +29,24 @@ title: Publications
 </style>
 <body>
     <!-- Submitted articles-->
-<!--<h1>Submitted</h1>-->
-<h1>Accepted</h1>
-  <div class="csl-bib-body">
+<h1>Submitted</h1>
+<div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[62] Huix-Rotllant, M.; Park, W.; Mazaherifar, M.; Choi, C.; <i>EAssessing Spin-flip Time-Dependent Density-Functional Based Tight-Binding For Describing Z/E Photoisomerisation Reactions</i>. Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a> </div><br>
+    <div class="csl-right-inline">[65] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[64] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M.; <i>Redox potentials and solvation free energies energies from an efficient electrostatic embedding QM/MM thermodynamic integration approach</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[63] Fay, T.; Huix-Rotllant, M.; Ferré, N.; <i>Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+  </div>
+</div>
+<h1>Accepted</h1>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[62] Huix-Rotllant, M.; Park, W.; Mazaherifar, M.; Choi, C.; <i>Assessing Spin-flip Time-Dependent Density-Functional Based Tight-Binding For Describing Z/E Photoisomerisation Reactions</i>. Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a> </div><br>
   </div>
 </div>
 <div class="csl-bib-body">
