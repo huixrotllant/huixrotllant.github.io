@@ -32,17 +32,22 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[65] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+    <div class="csl-right-inline">[66] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
 </div>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[64] Fay, T.; Huix-Rotllant, M.; Ferré, N.; <i>Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+    <div class="csl-right-inline">[65] Fay, T.; Huix-Rotllant, M.; Ferré, N.; <i>Analytic gradients and periodic boundary conditions for direct reaction field polarizable QM/MM</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
   </div>
 </div>
 <h1>Accepted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[63] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient Free Energies from a Simplified Electrostatic Embedding QM/MM Approach Based on Electrostatic Potential Fitted Operators</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jcim.5c01563" target="_blank">10.1021/acs.jcim.5c01563</a> </div><br>
+    <div class="csl-right-inline">[64] Eder, I.; Huix-Rotllant, M.; Ferré, N.; <i>
+Towards the modeling of static electric field effects in rhodopsin photophysics using QM/MM calculations</i> . Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv-2025-v2jwn-v2" target="_blank">10.26434/chemrxiv-2025-v2jwn-v2</a> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[63] Bonfrate, S.; Ferré, N.; Huix-Rotllant, M.; <i>Efficient Free Energies from a Simplified Electrostatic Embedding QM/MM Approach Based on Electrostatic Potential Fitted Operators</i> J. Chem. Inf. Model, <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1021/acs.jcim.5c01563" target="_blank">10.1021/acs.jcim.5c01563</a> </div><br>
 </div>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
