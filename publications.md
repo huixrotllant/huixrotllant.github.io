@@ -43,7 +43,7 @@ title: Publications
 <div class="csl-bib-body">
   <div data-csl-entry-id="Fay2025" class="csl-entry">
     <div class="csl-right-inline">[64] Eder, I.; Huix-Rotllant, M.; Ferré, N.; <i>
-Towards the modeling of static electric field effects in rhodopsin photophysics using QM/MM calculations</i> . Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.26434/10.1007/s00214-025-03236-y" target="_blank">10.1007/s00214-025-03236-y</a> </div><br>
+Towards the modeling of static electric field effects in rhodopsin photophysics using QM/MM calculations</i> . Theor. Chem. Acc., <i>144</i>, 41,</i> <b><span style="font-weight:normal;"><b>2025</b></span></b>. DOI: <a href="https://doi.org/10.1007/s00214-025-03236-y" target="_blank">10.1007/s00214-025-03236-y</a> </div><br>
 </div>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Bonfrate2025b" class="csl-entry">
