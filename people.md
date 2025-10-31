@@ -125,17 +125,17 @@ border: none;
   <tr>
   <td width="25%">
   <center>
-      <image src="./images/thomas.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+      <image src="./images/renato.jpg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
   <td>
-   Thomas Patrick Fay <br>
+   Renato Dias da Cunha <br>
     <b>Post-doctoral fellow</b>
   <br>
-     <a
+ <!--     <a
     id="cy-effective-orcid-url"
     class="underline"
-     href="https://orcid.org/0000-0003-0625-731X"
+     href="https://orcid.org/0000-0003-0625-731X" 
      target="_blank"
      rel="me noopener noreferrer"
      style="vertical-align: top">
@@ -144,22 +144,22 @@ border: none;
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       0000-0003-0625-731X
-    </a> <br>
+    </a> --><br>
   <b>Project:</b> ANR MAPPLE<br>
-  <b>Contact:</b> thomas-patrick.fay@univ-amu.fr<br>
+  <b>Contact:</b> renato.dias-da-cunha@univ-amu.fr<br>
   </td>
 </tr>
 <tr>
   <td width="25%">
   <center>
-  <image src="./images/simone.png" position="center" style="border-radius: 4px; width: 200px"/>
+  <image src="./images/ellena.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
   <td>
-   Simone Bonfrate <br>
-    <b>PhD Student</b>
+   Ellena Black <br>
+    <b>Post-doctoral fellow</b>
   <br>
-     <a
+<!--     <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0002-4820-7444"
@@ -171,9 +171,9 @@ border: none;
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       0000-0002-4820-7444
-    </a> <br>
+    </a> --> <br>
   <b>Project:</b> ANR MAPPLE<br>
-  <b>Contact:</b> simone.bonfrate@univ-amu.fr<br>
+  <b>Contact:</b> ellena.black@univ-amu.fr<br>
   </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ border: none;
          <a
     id="cy-effective-orcid-url"
     class="underline"
-     href="https://orcid.org/0000-0002-5066-6674"
+     href="https://orcid.org/0009-0007-3243-4195"
      target="_blank"
      rel="me noopener noreferrer"
      style="vertical-align: top">
@@ -223,11 +223,11 @@ border: none;
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
-      0000-0002-5066-6674
+      0009-0007-3243-4195
     </a>
   <br>
-  Exchange student<br>
-  <b>Contact:</b> ujin.park@univ-amu.fr<br>
+  PhD candidate<br>
+  <b>Contact:</b> danilo.markovic@univ-amu.fr<br>
   </td>
 </tr>
 <!-- <tr>
@@ -248,6 +248,8 @@ border: none;
 
 <h1>Alumni</h1> 
 <ul>
+<li> Thomas Fay, Post-doctoral fellow, 2023-2025 </li>
+<li> Simone Bonfrate, PhD student, 2021-2024 </li>
 <li> Darío Barreiro-Lage, Post-Doctoral fellow, 2024 </li>
 <li> Marc Alías-Rodríguez, Post-Doctoral fellow, 2022-2024 </li>
 <li> Omar Guireev, 2nd year Bachelor internship, 2024 </li>
