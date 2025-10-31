@@ -33,7 +33,7 @@
 </style>
 <body>
 
-<h1> News </h1>
+<!--<h1> News </h1>
 
 <table class="tg">
 <tr>
@@ -58,7 +58,8 @@
  Our extension of QM/MM in periodic boundary conditions of semi-empirical methods is finally out. We show that DFTB/MM can fast an accurately describe free energy profiles of several reactions in solution such as isomerisations, proton transfer and nucleophilic substitutions. DOI: <a href="http://dx.doi.org/10.1002/jcc.70107" target="_blank">10.1002/jcc.70107</a>
   </td>
 </tr>
-
+</table>-->
+    
 <!-- <tr>
   <td class="tg-oe15" width="25%">
   <center>
@@ -176,6 +177,6 @@
    Time-resolved serial femtosecond X-ray crystallography confirms the carbon monoxide photolysis mechanism that we predicted in 2018 (see our <a href="http://dx.doi.org/10.1038/s41467-018-06615-1" target="_blank">Nat. Comm.</a>). The dissociation occurs in less than 100 fs and coherent motions of the CO and the protein cavity are observed. Excellent collaboration between many people lead by Ilme Schlichting. This study is now published in <b>Nature</b> 626, 905–911 (2024). DOI: <a href="http://dx.doi.org/10.1038/s41586-024-07032-9" target="_blank">10.1038/s41586-024-07032-9</a>
   </td>
 </tr> -->
-</table>
+<!--</table>-->
 </body>
 </html>
