@@ -32,7 +32,12 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[66] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+    <div class="csl-right-inline">[67] Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; Huix-Rotllant, M.; Yang, X.
+Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[66] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J.; Ho Choi, C. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
 </div>
 <h1>Accepted</h1>
 <div class="csl-bib-body">
