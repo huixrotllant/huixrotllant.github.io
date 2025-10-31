@@ -206,12 +206,12 @@ border: none;
 <tr>
   <td width="25%">
   <center>
-  <image src="./images/woojin.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
+  <image src="./images/danilo.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
   </center>
   </td>
   <td>
-   Woojin Park <br>
-    <b>PhD Student</b><br>
+   Danilo Marković <br>
+    <b>PhD candidate</b><br>
          <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -248,12 +248,15 @@ border: none;
 
 <h1>Alumni</h1> 
 <ul>
+<li> Abdul Qadeer, M2 internship, 2025 </li>
+<li> Anis Abdelbari, M2 internship, 2025 </li>
+<li> Woojin Park, PhD exchange student, 2023-2024 </li>
 <li> Thomas Fay, Post-doctoral fellow, 2023-2025 </li>
 <li> Simone Bonfrate, PhD student, 2021-2024 </li>
 <li> Darío Barreiro-Lage, Post-Doctoral fellow, 2024 </li>
 <li> Marc Alías-Rodríguez, Post-Doctoral fellow, 2022-2024 </li>
-<li> Omar Guireev, 2nd year Bachelor internship, 2024 </li>
-<li> Dulce Trejo, 1st year Master internship, 2024 </li>
+<li> Omar Guireev, L2 internship, 2024 </li>
+<li> Dulce Trejo, M1 internship, 2024 </li>
 <li> Gustavo Adolfo Cardenas, Post-Doctoral fellow, 2023-2023 </li>
 <li> Swarnendu Bhattacharyya, Post-Doctoral fellow, 2021-2023 </li>
 <li> Johanna Guazelli, 2nd year Bachelor internship, 2020 </li>
