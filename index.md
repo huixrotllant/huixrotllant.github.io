@@ -33,7 +33,11 @@
 </style>
 <body>
 
+My research group focuses on the theoretical modeling of photochemical processes in complex environments, combining theory development and applications of hybrid classical–quantum methodologies, quantum dynamics, spectroscopy and density functional theory approaches for excited states.
+
 <!--<h1> News </h1>
+
+
 
 <table class="tg">
 <tr>
