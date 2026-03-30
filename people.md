@@ -122,7 +122,7 @@ border: none;
   <b>Contact:</b> dario.barreiro-lage@univ-amu.fr<br>
   </td>
 </tr> -->
-  <tr>
+<!--  <tr>
   <td width="25%">
   <center>
       <image src="./images/renato.jpg" position="center" style="border-radius: 4px; width: 200px"/>
@@ -148,7 +148,7 @@ border: none;
   <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> renato.dias-da-cunha@univ-amu.fr<br>
   </td>
-</tr>
+</tr>-->
 <tr>
   <td width="25%">
   <center>
