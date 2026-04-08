@@ -31,11 +31,15 @@ title: Publications
     <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
-  <div data-csl-entry-id="Lee2025" class="csl-entry">
-    <div class="csl-right-inline">[70] Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; Huix-Rotllant, M.; Yang, X.
-Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  <b><span style="font-weight:normal;"><b>2025</b></span></b>. <!--DOI: <a href="https://doi.org/10.1007/s00214-025-03198-1" target="_blank">10.1007/s00214-025-03198-1</a>--> </div><br>
+  <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
+    <div class="csl-right-inline">[71] Mazaherifar,M.,; Park,W.; Bonfrate, S.; Li, J.; Huix-Rotllant, M. Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br>
 </div>
 <h1>Accepted</h1>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Lee2025" class="csl-entry">
+    <div class="csl-right-inline">[70] Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; Huix-Rotllant, M.; Yang, X.
+Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  <b><span style="font-weight:normal;">Biophys. J., <b>2026</b></span></b>. DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a> </div><br>
+</div>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
     <div class="csl-right-inline">[69] Huix-Rotllant, M.; Qaader, A.; Roca-Sanjuán, D.; Segarra-Martí, J.; Ho Choi, C. <i>Impact of Solvation on the Photoisomerization Mechanism of Oxindole Switches with Electron-Donating Substituents</i>  Photochem. Photobiol. Sci. <b><span style="font-weight:normal;"><b>2026</b></span></b>. DOI: <a href="https://doi.org/10.1007/s43630-025-00847-z" target="_blank">10.1007/s43630-025-00847-z</a> </div><br>
