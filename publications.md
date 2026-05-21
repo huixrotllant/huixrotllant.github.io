@@ -32,7 +32,11 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
-    <div class="csl-right-inline">[71] Mazaherifar,M.,; Park,W.; Bonfrate, S.; Li, J.; Huix-Rotllant, M. Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br>
+    <div class="csl-right-inline">[72] Alías-Rodríguez,M.,; Montorsi, F.; Park,W.; Weser, O.; Bonfirraro, L.; Nenov, A.; Garavelli, M.; Choi, C. H.; Manni, G. L.; Segatta, F.; Huix-Rotllant, M.<i>Benchmarking Core-Level X-ray Absorption with MRSF-TDDFT, RASPT2, and Stochastic GAS Using the XABOOM Set</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
+    <div class="csl-right-inline">[71] Mazaherifar,M.,; Park,W.; Bonfrate, S.; Li, J.; Huix-Rotllant, M.; Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br>
 </div>
 <h1>Accepted</h1>
 <div class="csl-bib-body">
