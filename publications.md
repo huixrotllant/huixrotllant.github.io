@@ -32,6 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
+    <div class="csl-right-inline">[73] Bonfrate, S.,; Park,W.; Mazaherifar,M.,; Ferré, N.; Choi, C. H.; Huix-Rotllant, M.<i>BNonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!--DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a>--> </div><br>
+</div>
+<div class="csl-bib-body">
+  <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
     <div class="csl-right-inline">[72] Alías-Rodríguez,M.,; Montorsi, F.; Park,W.; Weser, O.; Bonfirraro, L.; Nenov, A.; Garavelli, M.; Choi, C. H.; Manni, G. L.; Segatta, F.; Huix-Rotllant, M.<i>Benchmarking Core-Level X-ray Absorption with MRSF-TDDFT, RASPT2, and Stochastic GAS Using the XABOOM Set</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> </div><br>
 </div>
 <div class="csl-bib-body">
