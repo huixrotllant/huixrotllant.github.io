@@ -31,6 +31,10 @@ title: Publications
     <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
+  <div data-csl-entry-id="Moragues2026" class="csl-entry">
+    <div class="csl-right-inline">[75] Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; Huix-Rotllant, M.; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives </i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> </div> --> <br><br>
+</div>
+<div class="csl-bib-body">
   <div data-csl-entry-id="Mazaherifar2026" class="csl-entry">
     <div class="csl-right-inline">[74] Ismail, I.;  Carniato, S.; Boucly, A.;  Huix-Rotllant, M.; Berholts, M.; Betoule, S.; Ceolin, D.; Naves de Brito, A.; Guillemin, R.; Hocine Hafiani, O.; Kabanova, V.;  Marchenko, T.; Muchova, E.; Nordgren, J.; Ohrwall, G.; Püttner, R.; Rubensson, J.-E.; Rue, J.-P.; Sarkar, S.; Soderstrom, J.; Travnikova, O.;  Velasquez, N.; Simon, M.; Bjorneholm, O.<i>From solvation to chelation: Chemically resolved coordination shells in liquids by intermolecular radiative decay</i>  <b><span style="font-weight:normal;"><b>2026</b></span></b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> </div> --> <br><br>
 </div>
@@ -48,7 +52,7 @@ title: Publications
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
     <div class="csl-right-inline">[70] Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; Huix-Rotllant, M.; Yang, X.
-Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  <b><span style="font-weight:normal;">Biophys. J., <b>2026</b></span></b>. DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a> </div><br>
+Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  Biophys. J., 125, 2416, <b><span style="font-weight:normal;"> <b>2026</b></span></b>. DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034" target="_blank">10.1016/j.bpj.2026.02.034 </a> </div><br>
 </div>
 <div class="csl-bib-body">
   <div data-csl-entry-id="Lee2025" class="csl-entry">
