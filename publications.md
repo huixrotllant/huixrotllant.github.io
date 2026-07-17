@@ -189,8 +189,8 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-right-inline">Schwinn, K.; Ferré, N.; <strong>Huix-Rotllant, M.</strong> <i>Analytic QM/MM Atomic Charge Derivatives Avoiding the Scaling of Coupled Perturbed Equations with the MM Subsystem Size</i>. The Journal of Chemical Physics <i>151</i>, 041102, <b>2019</b>. DOI: <a href="https://dx.doi.org/10.1063/1.5115125" target="_blank">10.1063/1.5115125</a>.</div><br/>
 </div>
 <div class="csl-entry" data-csl-entry-id="Mondal2019">
-<div class="csl-right-inline">Mondal, P.; <strong>Huix-Rotllant, M.</strong> <i>Theoretical Insights into the Formation and Stability of Radical Oxygen Species in Cryptochrome</i>. Phys. Chem. Chem. Phys. 8874–8882, <b>2019</b>. DOI: <a href="https://dx.doi.org/10.1039/C9CP00782B" target="_blank">10.1039/C9CP00782B</a>.</div>
-</div><br/>
+<div class="csl-right-inline">Mondal, P.; <strong>Huix-Rotllant, M.</strong> <i>Theoretical Insights into the Formation and Stability of Radical Oxygen Species in Cryptochrome</i>. Phys. Chem. Chem. Phys. 8874–8882, <b>2019</b>. DOI: <a href="https://dx.doi.org/10.1039/C9CP00782B" target="_blank">10.1039/C9CP00782B</a>.</div><br/>
+</div>
 <div class="csl-entry" data-csl-entry-id="Pieri2018">
 <div class="csl-right-inline">Pieri, E.; Ledentu, V.; <strong>Huix-Rotllant, M.</strong>; Ferré, N. <i>Sampling the Protonation States: The PH-Dependent UV Absorption Spectrum of a Polypeptide Dyad</i>. Phys. Chem. Chem. Phys. <i>20</i>, 23252–23261, <b>2018</b>. DOI: <a href="https://dx.doi.org/10.1039/C8CP03557A" target="_blank">10.1039/C8CP03557A</a>.</div><br/>
 </div>
@@ -204,8 +204,8 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-right-inline">Vayá, I.; Brazard, J.; <strong>Huix-Rotllant, M.</strong>; Thazhathveetil, A. K.; Lewis, F. D.; Gustavsson, T.; Burghardt, I.; Improta, R.; Markovitsi, D. <i>High-Energy Long-Lived Mixed Frenkel–Charge-Transfer Excitons: From Double Stranded (AT)ₙ to Natural DNA</i>. Chemistry – A European Journal <i>22</i>, 4904–4914, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1002/chem.201504007" target="_blank">10.1002/chem.201504007</a>.</div><br/>
 </div>
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2016a">
-<div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Burghardt, I.; Ferré, N. <i>Population of Triplet States in Acetophenone: A Quantum Dynamics Perspective</i>. Comptes Rendus Chimie <i>19</i>, 50–56, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1016/j.crci.2015.10.002" target="_blank">10.1016/j.crci.2015.10.002</a>.</div>
-</div><br/>
+<div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Burghardt, I.; Ferré, N. <i>Population of Triplet States in Acetophenone: A Quantum Dynamics Perspective</i>. Comptes Rendus Chimie <i>19</i>, 50–56, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1016/j.crci.2015.10.002" target="_blank">10.1016/j.crci.2015.10.002</a>.</div><br/>
+</div>
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2016">
 <div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Ferré, N. <i>An Effective Procedure for Analyzing Molecular Vibrations in Terms of Local Fragment Modes</i>. Journal of Chemical Theory and Computation <i>12</i>, 4768–4777, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.6b00514" target="_blank">10.1021/acs.jctc.6b00514</a>.</div><br/>
 </div>
@@ -222,8 +222,8 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-right-inline">Filatov, M.; <strong>Huix-Rotllant, M.</strong>; Burghardt, I. <i>Ensemble Density Functional Theory Method Correctly Describes Bond Dissociation, Excited State Electron Transfer, and Double Excitations</i>. The Journal of Chemical Physics <i>142</i>, <b>2015</b>. DOI: <a href="https://dx.doi.org/10.1063/1.4919773" target="_blank">10.1063/1.4919773</a>.</div><br/>
 </div>
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2015">
-<div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Nikiforov, A.; Thiel, W.; Filatov, M. <i>Description of Conical Intersections with Density Functional Methods</i>; Density-Functional Methods for Excited States; Springer International Publishing, <b>2015</b>; pp 445–476. DOI: <a href="https://dx.doi.org/10.1007/128_2015_631" target="_blank">10.1007/128_2015_631</a>.</div>
-</div><br/>
+<div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Nikiforov, A.; Thiel, W.; Filatov, M. <i>Description of Conical Intersections with Density Functional Methods</i>; Density-Functional Methods for Excited States; Springer International Publishing, <b>2015</b>; pp 445–476. DOI: <a href="https://dx.doi.org/10.1007/128_2015_631" target="_blank">10.1007/128_2015_631</a>.</div><br/>
+</div>
 <div class="csl-entry" data-csl-entry-id="Casida2015">
 <div class="csl-right-inline">Casida, M. E.; <strong>Huix-Rotllant, M.</strong> <i>Many-Body Perturbation Theory (MBPT) and Time-Dependent Density-Functional Theory (TD-DFT): MBPT Insights About What Is Missing In, and Corrections To, the TD-DFT Adiabatic Approximation</i>; Density-Functional Methods for Excited States; Springer International Publishing, <b>2015</b>; pp 1–60. DOI: <a href="https://dx.doi.org/10.1007/128_2015_632" target="_blank">10.1007/128_2015_632</a>.</div><br/>
 </div>
