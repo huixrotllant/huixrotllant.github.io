@@ -29,19 +29,15 @@ body {
 
 /* Style the citation entries */
 .csl-entry {
-  counter-increment: pub-counter;
   display: flex !important;
   align-items: flex-start;
   margin-bottom: 15px;
 }
 
-/* Generate [N], [N-1], ..., [1] */
 .csl-entry::before {
-  content: "[" counter(pub-counter) "]";
-  font-weight: normal;
+  content: "[" attr(data-num) "]";
   min-width: 35px;
   margin-right: 12px;
-  flex-shrink: 0;
   text-align: right;
-  color: #333;
+  flex-shrink: 0;
 }
