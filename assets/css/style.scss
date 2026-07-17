@@ -22,26 +22,26 @@
   }
 }
 
-/* 1. Start the counter on the body of the page */
+/* Start a reversed counter */
 body {
-  counter-reset: pub-counter;
+  counter-reset: reversed(pub-counter);
 }
 
-/* 2. Style the academic citation entries */
+/* Style the citation entries */
 .csl-entry {
   counter-increment: pub-counter;
-  display: flex !important;       /* Uses flexbox to keep the number and text perfectly aligned */
+  display: flex !important;
   align-items: flex-start;
   margin-bottom: 15px;
 }
 
-/* 3. Generate the [1], [2], [3]... prefix dynamically */
+/* Generate [N], [N-1], ..., [1] */
 .csl-entry::before {
   content: "[" counter(pub-counter) "]";
-  font-weight: bold;
-  min-width: 35px;               /* Keeps numbers aligned if you reach double digits [10]+ */
+  font-weight: normal;
+  min-width: 35px;
   margin-right: 12px;
   flex-shrink: 0;
   text-align: right;
-  color: #333;                   /* Adjust color to match your theme */
+  color: #333;
 }
