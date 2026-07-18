@@ -67,7 +67,7 @@ LinkedIn
 
 {% endfor %}
 
-</div>
+</div><br><br>
 
 
 <h1>Alumni</h1> 
