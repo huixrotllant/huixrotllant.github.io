@@ -3,7 +3,7 @@ title: Openings
 ---
 
 <html>
-<style>
+  <style>
 .page-header {
   color: #000;
   text-align: center;
@@ -14,7 +14,6 @@ title: Openings
   margin: 0 auto;
 
 }
-
   .btn {
     color: #000;
     border-color: #000; 
@@ -27,12 +26,12 @@ title: Openings
     border-color: #000;
     background-color: #7c940ea1;
   }
-  .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
+}
 </style>
 <body>
 <table class="tg">
