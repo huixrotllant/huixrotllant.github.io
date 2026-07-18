@@ -78,77 +78,6 @@ border: none;
   <b>Contact:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br>
   </td>
 </tr>
-
-<!-- <tr>
-  <td width="25%">
-  <center>
-  <image src="./images/marc.png" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Marc Alías-Rodriguez <br>
-    <b>Post-doctoral fellow</b><br>
-     <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-1826-4552"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-     0000-0002-1826-4552
-    </a> <br>
-  𝕏 <a href="https://twitter.com/maliasrodrig" target="_blank">@MAliasRodrig</a>
-  <br>
-  <b>Project:</b> ANR MULTICROSS<br>
-  <b>Contact:</b> marc.alias-rodriguez@univ-amu.fr<br>
-  </td>
-</tr> -->
-    
-<!-- <tr>
-  <td width="25%">
-  <center>
-  <image src="./images/dario.png" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Darío Barreiro-Lage <br>
-    <b>Post-doctoral fellow</b>
-  <br>
-  <b>Project:</b> ANR ULTRARCHEA<br>
-  <b>Contact:</b> dario.barreiro-lage@univ-amu.fr<br>
-  </td>
-</tr> -->
-<!--  <tr>
-  <td width="25%">
-  <center>
-      <image src="./images/renato.jpg" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Renato Dias da Cunha <br>
-    <b>Post-doctoral fellow</b>
-  <br>
- <!--     <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-0625-731X" 
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      0000-0003-0625-731X
-    </a> --><br>
-  <b>Project:</b> ANR MAPPLE<br>
-  <b>Contact:</b> renato.dias-da-cunha@univ-amu.fr<br>
-  </td>
-</tr>-->
 <tr>
   <td width="25%">
   <center>
@@ -159,19 +88,7 @@ border: none;
    Ellena Black <br>
     <b>Post-doctoral fellow</b>
   <br>
-<!--     <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-4820-7444"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      0000-0002-4820-7444
-    </a> --> <br>
+ <br>
   <b>Project:</b> ANR MAPPLE<br>
   <b>Contact:</b> ellena.black@univ-amu.fr<br>
   </td>
@@ -186,19 +103,6 @@ border: none;
    Isabel Eder <br>
     <b>PhD Student</b>
   <br>
-   <!--  <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-4820-7444"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      0000-0002-4820-7444
-    </a> <br> -->
   <b>Project:</b> ANR ULTRARCHEA<br>
   <b>Contact:</b> isabel.eder@univ-amu.fr<br>
   </td>
@@ -230,24 +134,16 @@ border: none;
   <b>Contact:</b> danilo.markovic@univ-amu.fr<br>
   </td>
 </tr>
-<!-- <tr>
-  <td width="25%">
-  <center>
-  <image src="./images/dulce.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Dulce Trejo <br>
-    <b>Master Student</b><br>
-  <br>
-  Internship<br>
-  </td>
-</tr> -->
-  </table>    
-
+  </table>
 
 <h1>Alumni</h1> 
 <ul>
+<li> Tiana Marie, L3 internship, 2026 </li>
+<li> Amel Castillo, L3 internship, 2026 </li>
+<li> Omar Guireev, L3 internship, 2026 </li>
+<li> Amine Belhadj-Belziane, M2 internship, 2026 </li>
+<li> Simone Bonfrate, Post-Doctoral fellow, 2024-2025 </li>
+<li> Renato Dias da Cunha, Post-Doctoral fellow, 2025-2026 </li>
 <li> Abdul Qadeer, M2 internship, 2025 </li>
 <li> Anis Abdelbari, M2 internship, 2025 </li>
 <li> Woojin Park, PhD exchange student, 2023-2024 </li>
