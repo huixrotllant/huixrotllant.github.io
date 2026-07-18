@@ -4,3 +4,6 @@ plugins:
 title: Huix-Rotllant Research Group
 description:
 google_analytics:
+collections:
+  news:
+    output: false
