@@ -23,7 +23,7 @@ title: People
 
 {% if person.orcid %}
 <br>
-ORCID:
+<b>ORCID:</b>
 <a href="https://orcid.org/{{ person.orcid }}">
 {{ person.orcid }}
 </a>
