@@ -59,7 +59,7 @@ Linkedin</a>
 <h2>Campus location</h2>
 
 <img class="contact-image"
-src="./images/g15047-748x1024.png"
+src="./images/stjerome.png"
 alt="Saint-Jérôme campus map">
 
 </div>
