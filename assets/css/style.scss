@@ -257,6 +257,47 @@ iframe {
 
 }
 
+.people-grid {
+
+display:flex;
+
+flex-direction:column;
+
+gap:2rem;
+
+}
+
+
+.person-card {
+
+display:flex;
+
+gap:2rem;
+
+align-items:flex-start;
+
+}
+
+
+.person-card img {
+
+width:180px;
+
+height:180px;
+
+object-fit:cover;
+
+border-radius:10px;
+
+}
+
+
+.person-info h3 {
+
+margin-top:0;
+
+}
+
 
 
 
@@ -393,4 +434,26 @@ iframe {
   color:#163A5F;
 
 }
+
+
+.person-card {
+
+flex-direction:column;
+
 }
+
+
+.person-card img {
+
+width:150px;
+
+height:150px;
+
+}
+
+
+}
+
+
+
+
