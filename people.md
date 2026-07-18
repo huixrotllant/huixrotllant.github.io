@@ -2,139 +2,73 @@
 title: People
 ---
 
-<html>
-  <style>
-.page-header {
-  color: #000;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: url("./images/header.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0 auto;
+<h1>Current members</h1>
 
-}
-  .btn {
-    color: #000;
-    border-color: #000; 
-    background-color: #fff;
-  } 
+<div class="people-grid">
 
-  .btn:hover {
-    color: #000;
-    text-decoration: none;
-    border-color: #000;
-    background-color: #7c940ea1;
-  }
+{% assign people = site.people %}
 
-table, tr, td, th{
-padding: 10px;
-margin: auto;
-border: none;
-}
-</style>
+{% for person in people %}
 
-<body>
-<h1>Current members</h1> 
+<div class="person-card">
 
-<table>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="./images/miquel.png" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Miquel Huix-Rotllant <br>
-    <b>Principal Investigator</b><br>
-     <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-2131-7328"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-     0000-0002-2131-7328
-    </a> <br>
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://scholar.google.com/citations?user=4-Y_V40AAAAJ"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="Google Scholar icon"/>
-      Google Scholar
-    </a> <br>
-Linkedin <a href="https://fr.linkedin.com/in/huixrotllant" target="_blank">@HuixRotllant</a>
-  <br>
-  <b>Contact:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="./images/ellena.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Ellena Black <br>
-    <b>Post-doctoral fellow</b>
-  <br>
- <br>
-  <b>Project:</b> ANR MAPPLE<br>
-  <b>Contact:</b> ellena.black@univ-amu.fr<br>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="./images/isabel.jpg" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Isabel Eder <br>
-    <b>PhD Student</b>
-  <br>
-  <b>Project:</b> ANR ULTRARCHEA<br>
-  <b>Contact:</b> isabel.eder@univ-amu.fr<br>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="./images/danilo.jpeg" position="center" style="border-radius: 4px; width: 200px"/>
-  </center>
-  </td>
-  <td>
-   Danilo Marković <br>
-    <b>PhD candidate</b><br>
-         <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0007-3243-4195"
-     target="_blank"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      0009-0007-3243-4195
-    </a>
-  <br>
-  PhD candidate<br>
-  <b>Contact:</b> danilo.markovic@univ-amu.fr<br>
-  </td>
-</tr>
-  </table>
+<img src="{{ person.photo }}" alt="{{ person.name }}">
+
+<div class="person-info">
+
+<h3>{{ person.name }}</h3>
+
+<strong>{{ person.position }}</strong>
+
+
+{% if person.orcid %}
+<br>
+ORCID:
+<a href="https://orcid.org/{{ person.orcid }}">
+{{ person.orcid }}
+</a>
+{% endif %}
+
+
+{% if person.project %}
+<br>
+<b>Project:</b> {{ person.project }}
+{% endif %}
+
+
+{% if person.email %}
+<br>
+<b>Contact:</b>
+<a href="mailto:{{ person.email }}">
+{{ person.email }}
+</a>
+{% endif %}
+
+
+{% if person.scholar %}
+<br>
+<a href="{{ person.scholar }}">
+Google Scholar
+</a>
+{% endif %}
+
+
+{% if person.linkedin %}
+<br>
+<a href="{{ person.linkedin }}">
+LinkedIn
+</a>
+{% endif %}
+
+
+</div>
+
+</div>
+
+{% endfor %}
+
+</div>
+
 
 <h1>Alumni</h1> 
 <ul>
