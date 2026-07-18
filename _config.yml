@@ -7,6 +7,5 @@ google_analytics:
 collections:
   news:
     output: false
-collections:
   people:
     output: false
