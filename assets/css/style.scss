@@ -139,16 +139,22 @@ a:hover {
 
 /* Header buttons */
 
-.btn {
-  border-radius: 30px !important;
-  padding: .7rem 1.6rem !important;
-  font-family: "Inter", sans-serif;
-  transition: .25s ease;
+.page-header .btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.95);
+  padding: 0.3rem 0.8rem !important;
+  margin: 0;
+  border-radius: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  box-shadow: none;
 }
 
-
-.btn:hover {
-  transform: translateY(-2px);
+.page-header .btn:hover {
+  color: white;
+  text-decoration: underline;
+  background: none;
 }
 
 
