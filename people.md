@@ -73,7 +73,7 @@ border: none;
         alt="Google Scholar icon"/>
       Google Scholar
     </a> <br>
-𝕏 <a href="https://twitter.com/HuixRotllant" target="_blank">@HuixRotllant</a>
+Linkedin <a href="https://fr.linkedin.com/in/huixrotllant" target="_blank">@HuixRotllant</a>
   <br>
   <b>Contact:</b> <a href="mailto:miquel.huix-rotllant@cnrs.fr" target="_self" rel="noopener noreferrer">miquel.huix-rotllant@cnrs.fr</a><br>
   </td>
