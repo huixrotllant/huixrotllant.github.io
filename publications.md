@@ -183,8 +183,8 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-right-inline">Schwinn, K.; Ferré, N.; <strong>Huix-Rotllant, M.</strong> <i>Efficient Analytic Second Derivative of Electrostatic Embedding QM/MM Energy: Normal Mode Analysis of Plant Cryptochrome</i>. Journal of Chemical Theory and Computation <i>16</i>, 3816–3824, <b>2020</b>. DOI: <a href="https://dx.doi.org/10.1021/acs.jctc.9b01145" target="_blank">10.1021/acs.jctc.9b01145</a>.</div><br/>
 </div>
 <div class="csl-entry" data-csl-entry-id="Schwinn2020">
-<div class="csl-right-inline">Schwinn, K.; Ferré, N.; <strong>Huix-Rotllant, M.</strong> <i>UV-Visible Absorption Spectrum of FAD and Its Reduced Forms Embedded in Cryptochrome Protein</i>. Phys. Chem. Chem. Phys. 12447–12455, <b>2020</b>. DOI: <a href="https://dx.doi.org/10.1039/D0CP01714K" target="_blank">10.1039/D0CP01714K</a>.</div>
-</div><br/>
+<div class="csl-right-inline">Schwinn, K.; Ferré, N.; <strong>Huix-Rotllant, M.</strong> <i>UV-Visible Absorption Spectrum of FAD and Its Reduced Forms Embedded in Cryptochrome Protein</i>. Phys. Chem. Chem. Phys. 12447–12455, <b>2020</b>. DOI: <a href="https://dx.doi.org/10.1039/D0CP01714K" target="_blank">10.1039/D0CP01714K</a>.</div><br/>
+</div>
 <div class="csl-entry" data-csl-entry-id="Schwinn2019">
 <div class="csl-right-inline">Schwinn, K.; Ferré, N.; <strong>Huix-Rotllant, M.</strong> <i>Analytic QM/MM Atomic Charge Derivatives Avoiding the Scaling of Coupled Perturbed Equations with the MM Subsystem Size</i>. The Journal of Chemical Physics <i>151</i>, 041102, <b>2019</b>. DOI: <a href="https://dx.doi.org/10.1063/1.5115125" target="_blank">10.1063/1.5115125</a>.</div><br/>
 </div>
@@ -265,7 +265,6 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 </div>
 <div class="csl-entry" data-csl-entry-id="Bonness2006">
 <div class="csl-right-inline">Bonness, S.; Kirtman, B.; <strong>Huix, M.</strong>; Sanchez, A. J.; Luis, J. M. <i>Simulation of Photoelectron Spectra with Anharmonicity Fully Included: Application to the \tildeXA<sup>2</sup>₂\leftarrow\tildeXA<sup>1</sup>₁ Band of Furan</i>. The Journal of Chemical Physics <i>125</i>, <b>2006</b>. DOI: <a href="https://dx.doi.org/10.1063/1.2210479" target="_blank">10.1063/1.2210479</a>.</div><br/>
-</div>
 </div>
 <h1>Book chapters</h1>
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2025">
