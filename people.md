@@ -6,7 +6,7 @@ title: People
 
 <div class="people-grid">
 
-{% assign people = site.people %}
+{% assign people = site.people | sort: "order" %}
 
 {% for person in people %}
 
