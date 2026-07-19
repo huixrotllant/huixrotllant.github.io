@@ -233,18 +233,13 @@ flex:0 0 180px;
 }
 
 
-.news-image img{
-
-width:180px;
-
-height:120px;
-
-object-fit:cover;
-
-border-radius:10px;
-
-display:block;
-
+.news-image img {
+  width: auto;         /* Automatically adjusts width proportionally */
+  max-width: 100%;     /* Ensures it never spills out of its container */
+  height: 120px;       /* Keeps a uniform height across all news cards */
+  object-fit: normal;  
+  border-radius: 10px;
+  display: block;
 }
 
 
