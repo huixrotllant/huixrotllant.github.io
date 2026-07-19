@@ -34,12 +34,6 @@ We develop theoretical and computational methods to investigate the photochemist
 
         <p>{{ item.excerpt | strip_html | truncate:150 }}</p>
 
-        {% if item.url %}
-        <a class="read-more" href="{{ item.url }}">
-            Read more →
-        </a>
-        {% endif %}
-
     </div>
 
 </div>
