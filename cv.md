@@ -194,7 +194,12 @@
         <img src="/images/people/miquel.png" alt="Profile Picture">
       </div>
       
-      <h1>Your Name</h1>
+      <h1>Miquel Huix-Rotllant
+      <button class="speaker-btn" onclick="speakName()" aria-label="Listen to pronunciation" title="Click to hear pronunciation">
+    <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.25-2.5-3.93v7.86c1.48-.68 2.5-2.16 2.5-3.93zm-2.5-7.43v1.54c2.61.71 4.5 3.1 4.5 5.89s-1.89 5.18-4.5 5.89v1.54c3.46-.76 6-3.81 6-7.43s-2.54-6.67-6-7.43z"/></svg>
+    <span class="ipa-text">/Mikɛl Uʃ-Rutʎan/</span>
+      </button>
+      </h1>
       <div class="subtitle">Computational Photochemistry &amp; Excited-State Dynamics</div>
       
       <div class="contact-links">
