@@ -157,105 +157,124 @@ iframe {
   border:0;
 }
 
-.news {
-  margin-top:3rem;
-}
+.news{
 
-
-.news-item {
-
-  display:flex;
-
-  gap:1.5rem;
-
-  margin-bottom:2rem;
-
-  padding-bottom:1.5rem;
-
-  border-bottom:1px solid #eee;
+margin-top:3rem;
 
 }
 
 
-.news-item img {
+.news-card{
 
-  width:160px;
+display:flex;
 
-  height:100px;
+gap:1.5rem;
 
-  object-fit:cover;
+margin-bottom:2rem;
 
-  border-radius:8px;
+padding:1.5rem;
 
-}
+background:white;
 
+border:1px solid #e8e8e8;
 
-.news-date {
+border-radius:12px;
 
-  font-size:0.9rem;
+box-shadow:0 2px 8px rgba(0,0,0,.05);
 
-  color:#777;
-
-}
-
-
-.news-item h3 {
-
-  margin:0.3rem 0;
-
-  font-size:1.2rem;
-
-}
-
-.news {
-  margin-top:3rem;
-}
-
-
-.news-item {
-
-  display:flex;
-
-  gap:1.5rem;
-
-  margin-bottom:2rem;
-
-  padding-bottom:1.5rem;
-
-  border-bottom:1px solid #eee;
+transition:.2s;
 
 }
 
 
-.news-item img {
+.news-card:hover{
 
-  width:160px;
+transform:translateY(-2px);
 
-  height:100px;
-
-  object-fit:cover;
-
-  border-radius:8px;
+box-shadow:0 8px 20px rgba(0,0,0,.08);
 
 }
 
 
-.news-date {
+.news-image{
 
-  font-size:0.9rem;
-
-  color:#777;
+flex:0 0 180px;
 
 }
 
 
-.news-item h3 {
+.news-image img{
 
-  margin:0.3rem 0;
+width:180px;
 
-  font-size:1.2rem;
+height:120px;
+
+object-fit:cover;
+
+border-radius:10px;
+
+display:block;
 
 }
+
+
+.news-text{
+
+flex:1;
+
+}
+
+
+.news-date{
+
+font-size:.85rem;
+
+color:#888;
+
+font-weight:600;
+
+margin-bottom:.3rem;
+
+text-transform:uppercase;
+
+letter-spacing:.04em;
+
+}
+
+
+.news-text h3{
+
+margin:.2rem 0 .7rem 0;
+
+font-size:1.2rem;
+
+}
+
+
+.news-text p{
+
+margin-bottom:.8rem;
+
+}
+
+
+.read-more{
+
+font-weight:600;
+
+text-decoration:none;
+
+color:#157878;
+
+}
+
+
+.read-more:hover{
+
+text-decoration:underline;
+
+}
+
 
 .people-grid {
 
@@ -471,20 +490,28 @@ border-radius:12px;
 
 
 
-.news-item {
+.news-card{
 
-  flex-direction:column;
+flex-direction:column;
 
 }
 
 
-.news-item img {
+.news-image{
 
-  width:100%;
+flex:none;
 
-  height:auto;
+}
 
-}  
+
+.news-image img{
+
+width:100%;
+
+height:220px;
+
+}
+
   
 .menu-toggle {
 
