@@ -257,6 +257,43 @@ margin-bottom:.8rem;
 
 }
 
+.news-footer{
+
+text-align:center;
+
+margin-top:2rem;
+
+}
+
+
+.news-button{
+
+display:inline-block;
+
+padding:0.8rem 1.6rem;
+
+background:#157878;
+
+color:white;
+
+text-decoration:none;
+
+border-radius:8px;
+
+font-weight:600;
+
+transition:.2s;
+
+}
+
+
+.news-button:hover{
+
+background:#125f61;
+
+transform:translateY(-2px);
+
+}
 
 .read-more{
 
