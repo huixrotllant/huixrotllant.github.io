@@ -6,12 +6,6 @@
 We develop theoretical and computational methods to investigate the photochemistry of molecular systems in complex environments. Our research combines electronic-structure theory, nonadiabatic dynamics, spectroscopy, and multiscale QM/MM approaches to understand how molecules absorb light, transfer energy, and undergo chemical transformations.
 </p>
 
-<div class="quick-links">
-<a class="button" href="/research">Research</a>
-<a class="button" href="/publications">Publications</a>
-<a class="button" href="/openings">Join Us</a>
-</div>
-
 </section>
 
 <section class="news">
