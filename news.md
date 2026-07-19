@@ -20,7 +20,7 @@
 
         <h3>{{ item.title }}</h3>
 
-        <p>{{ item.excerpt | strip_html | truncate:150 }}</p>
+        <p>{{ item.excerpt | strip_html }}</p>
 
     </div>
 
@@ -28,11 +28,6 @@
 
 {% endfor %}
 
-<div class="news-footer">
-    <a class="news-button" href="/news">
-        View all news →
-    </a>
-</div>
 
 </section>
 
