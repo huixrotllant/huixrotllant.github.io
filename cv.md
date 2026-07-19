@@ -285,7 +285,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
 
         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi Femto-Switch (<a src="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">ANR-24-CE92-0043</a>)</div>
+            <div class="item-title">ANR PRCi Femto-Switch (<a src="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">24-CE92-0043</a>)</div>
             <div class="item-meta">2025-2028</div>
           </div>
           <div class="item-sub">Project partner</div>
@@ -295,7 +295,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
         </div>
                 <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRC MAPPLE (<a src="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">ANR-22-CE29-0014</a>)</div>
+            <div class="item-title">ANR PRC MAPPLE (<a src="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">22-CE29-0014</a>)</div>
             <div class="item-meta">2024-2029</div>
           </div>
           <div class="item-sub">Project partner</div>
@@ -305,7 +305,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
         </div>
                         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi ULTRArchea (<a src="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">ANR-21-CE11-0029</a>)</div>
+            <div class="item-title">ANR PRCi ULTRArchea (<a src="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">21-CE11-0029</a>)</div>
             <div class="item-meta">2021-2027</div>
           </div>
           <div class="item-sub">Project participant</div>
