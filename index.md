@@ -52,6 +52,12 @@ We develop theoretical and computational methods to investigate the photochemist
 
 {% endfor %}
 
+<div class="news-footer">
+    <a class="news-button" href="/news">
+        View all news →
+    </a>
+</div>
+
 </section>
 
 
