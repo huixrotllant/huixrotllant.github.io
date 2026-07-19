@@ -1,61 +1,52 @@
+<section class="intro">
 
+<h2>Computational Photochemistry and Excited-State Dynamics</h2>
 
-<html>
-<style>
-.page-header {
-  color: #000;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: url("./images/header.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0 auto;
+<p>
+We develop theoretical and computational methods to investigate the photochemistry of molecular systems in complex environments. Our research combines electronic-structure theory, nonadiabatic dynamics, spectroscopy, and multiscale QM/MM approaches to understand how molecules absorb light, transfer energy, and undergo chemical transformations.
+</p>
 
-}
-  .btn {
-    color: #000;
-    border-color: #000; 
-    background-color: #fff;
-  } 
+<div class="quick-links">
+<a class="button" href="/research">Research</a>
+<a class="button" href="/publications">Publications</a>
+<a class="button" href="/openings">Join Us</a>
+</div>
 
-  .btn:hover {
-    color: #000;
-    text-decoration: none;
-    border-color: #000;
-    background-color: #7c940ea1;
-  }
-</style>
-<body>
-
-My research group focuses on the theoretical modeling of photochemical processes in complex environments, combining theory development and applications of hybrid classical–quantum methodologies, quantum dynamics, spectroscopy and density functional theory approaches for excited states.
+</section>
 
 <section class="news">
 
-<h2>News</h2>
+<h2>Latest News</h2>
 
 {% assign news = site.news | sort: "date" | reverse %}
 
-{% for item in news limit:5 %}
+{% for item in news limit:4 %}
 
-<div class="news-item">
+<div class="news-card">
 
-{% if item.image %}
-<img src="{{ item.image }}" alt="">
-{% endif %}
+    {% if item.image %}
+    <div class="news-image">
+        <img src="{{ item.image }}" alt="{{ item.title }}">
+    </div>
+    {% endif %}
 
-<div class="news-content">
+    <div class="news-text">
 
-<div class="news-date">
-{{ item.date | date: "%d %B %Y" }}
-</div>
+        <div class="news-date">
+            {{ item.date | date: "%d %B %Y" }}
+        </div>
 
-<h3>{{ item.title }}</h3>
+        <h3>{{ item.title }}</h3>
 
-<p>
-{{ item.content }}
-</p>
+        <p>{{ item.excerpt | strip_html | truncate:150 }}</p>
 
-</div>
+        {% if item.url %}
+        <a class="read-more" href="{{ item.url }}">
+            Read more →
+        </a>
+        {% endif %}
+
+    </div>
 
 </div>
 
@@ -63,5 +54,4 @@ My research group focuses on the theoretical modeling of photochemical processes
 
 </section>
 
-</body>
-</html>
+
