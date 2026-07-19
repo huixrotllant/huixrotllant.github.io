@@ -275,10 +275,20 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
         <h2>On-Going Grants</h2>
                 <div class="item">
           <div class="item-header">
+            <div class="item-title">PHC STAR</div>
+            <div class="item-meta">2027-2029</div>
+          </div>
+          <div class="item-sub">Project coordinator</div>
+          <p class="item-desc">
+         Title: Development of new methods for multi-scale modeling          </p>
+        </div>
+                
+                <div class="item">
+          <div class="item-header">
             <div class="item-title">ANR PRC CASPI </div>
             <div class="item-meta">2026-2029</div>
           </div>
-          <div class="item-sub">Project partner</div>
+          <div class="item-sub">Project participant</div>
           <p class="item-desc">
          Title: Development of NHC organocatalysts for extreme photoreduction          </p>
         </div>
