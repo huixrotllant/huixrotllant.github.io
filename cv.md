@@ -213,12 +213,12 @@
         <img src="/images/people/miquel.png" alt="Profile Picture">
       </div>
       
-      <h1>Miquel Huix-Rotllant
+      <h2>Miquel Huix-Rotllant
       <button class="speaker-btn" onclick="speakName()" aria-label="Listen to pronunciation" title="Click to hear pronunciation">
     <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.25-2.5-3.93v7.86c1.48-.68 2.5-2.16 2.5-3.93zm-2.5-7.43v1.54c2.61.71 4.5 3.1 4.5 5.89s-1.89 5.18-4.5 5.89v1.54c3.46-.76 6-3.81 6-7.43s-2.54-6.67-6-7.43z"/></svg>
     <span class="ipa-text">/Mikɛl Uʃ-Rutʎan/</span>
       </button>
-      </h1>
+      </h2>
       <div class="subtitle">Computational Photochemistry &amp; Excited-State Dynamics</div>
       
       <div class="contact-links">
@@ -237,8 +237,10 @@
 
         <div class="item">
           <p class="item-desc">
-            Investigating the photochemistry of molecular systems in complex environments. Developing theoretical architectures for non-adiabatic dynamics and multi-scale QM/MM platforms.
-          </p>
+Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focused on developing double excitations for TDDFT, I defended my Habilitation (HDR) in 2025 at Aix-Marseille University on the modeling of photochemistry in the condensed phase. I am a permanent CNRS Research Fellow since 2015 at Aix-Marseille University, currently serving as the Head of the <strong>Light and Radicals</strong> strategic research axis at the Institut de Chimie Radicalaire.</p>
+        <p>
+    Deeply involved in scientific governance, I lead the Theoretical Chemistry division of the national French <strong>XFEL</strong> network as well as the South-East hub of the French Theoretical Chemistry network (Thémosia). I have authored over 70 peer-reviewed publications, blending electronic structure developments, multi-scale modeling, and spectroscopy with applications spanning from gas-phase molecules to complex photoactive proteins.
+  </p>
         </div>
       </section>
       
@@ -286,46 +288,6 @@
           </p>
         </div>
       </section>
-
-      <!-- PROJECTS -->
-      <section>
-        <h2>Projects</h2>
-
-        <div class="item">
-          <div class="item-header">
-            <div class="item-title"><a href="https://github.com">QuantumDynamics.js</a></div>
-            <div class="item-meta">Open Source</div>
-          </div>
-          <p class="item-desc">
-            A raw performance computation library designed to render electron wave functions directly in clean browser spaces.
-          </p>
-          <div class="tags">JavaScript, WebGL, WebAssembly</div>
-        </div>
-      </section>
-
-      <!-- SKILLS -->
-      <section>
-        <h2>Skills</h2>
-
-        <div class="item">
-          <div class="item-header">
-            <div class="item-title">Methodologies</div>
-          </div>
-          <p class="item-desc">
-            Schrödinger Equation, TDDFT, Non-adiabatic Molecular Dynamics, Periodic Boundary Conditions (PBC), Condensed Phase Modeling.
-          </p>
-        </div>
-
-        <div class="item">
-          <div class="item-header">
-            <div class="item-title">Engineering</div>
-          </div>
-          <p class="item-desc">
-            Python, Fortran, C++, Linux Shell Scripting, Git Version Architecture, High-Performance Computing cluster environments.
-          </p>
-        </div>
-      </section>
-
     </main>
   </div>
 
