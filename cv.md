@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name — Resume</title>
+  <title>Miquel Huix-Rotllant — Resume</title>
   <script>
   function speakName() {
     // Check if the browser supports text-to-speech
@@ -10,9 +10,9 @@
       window.speechSynthesis.cancel();
       
       // Type out how you want the computer voice to pronounce it
-      const utterance = new SpeechSynthesisUtterance("Your Name"); 
+      const utterance = new SpeechSynthesisUtterance("Miquel Huix Rotllant"); 
       
-      utterance.lang = 'en-US'; // Change to 'es-ES', 'fr-FR', etc. if needed
+      utterance.lang = 'ca-ES'; // Change to 'es-ES', 'fr-FR', etc. if needed
       utterance.rate = 0.9;     // Slightly slower pace so it is easy to catch
       
       window.speechSynthesis.speak(utterance);
