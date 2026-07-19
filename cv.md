@@ -107,6 +107,11 @@
       flex-grow: 1;
     }
 
+    .executive-summary, .item-desc {
+  text-align: justify;
+  text-justify: inter-word; /* Ensures clean, even spacing between words across all modern browsers */
+}
+
     h2 {
       font-size: 16px;
       font-weight: 700;
@@ -183,6 +188,11 @@
         margin-top: 2px;
         margin-bottom: 4px;
       }
+
+      .executive-summary, .item-desc {
+    text-align: justify;
+    text-justify: inter-word;
+  }
     }
 
     @media print {
@@ -235,11 +245,9 @@
       <section>
         <h2>Summary</h2>
 
-        <div class="item">
+        <div class="executive-summary" itemprop="description">
           <p class="item-desc">
-Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focused on developing double excitations for TDDFT, I defended my Habilitation (HDR) in 2025 at Aix-Marseille University on the modeling of photochemistry in the condensed phase. I am a permanent CNRS Research Fellow since 2015 at Aix-Marseille University, currently serving as the Head of the <strong>Light and Radicals</strong> strategic research axis at the Institut de Chimie Radicalaire.</p>
-        <p>
-    Deeply involved in scientific governance, I lead the Theoretical Chemistry division of the national French <strong>XFEL</strong> network as well as the South-East hub of the French Theoretical Chemistry network (Thémosia). I have authored over 70 peer-reviewed publications, blending electronic structure developments, multi-scale modeling, and spectroscopy with applications spanning from gas-phase molecules to complex photoactive proteins.
+Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focused on developing double excitations for TDDFT, I defended my Habilitation (HDR) in 2025 at Aix-Marseille University on the modeling of photochemistry in the condensed phase. I am a permanent CNRS Research Fellow since 2015 at Aix-Marseille University, currently serving as the Head of the <strong>Light and Radicals</strong> strategic research axis at the Institut de Chimie Radicalaire. I currently lead the Theoretical Chemistry division of the national French <strong>XFEL</strong> network as well as the South-East hub of the French Theoretical Chemistry network (Thémosia). I have authored over 70 peer-reviewed publications, blending electronic structure developments, multi-scale modeling, and spectroscopy with applications spanning from gas-phase molecules to complex photoactive proteins.
   </p>
         </div>
       </section>
