@@ -129,7 +129,7 @@ body{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;co
   font-size: 3.2rem;
   margin: .2rem;
   line-height: 1.2; // Keeps lines close together if they wrap
-
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   // ADDED: Responsive font sizing for mobile screens
   @media (max-width: 576px) {
     font-size: 2rem; /* Shrinks the text so it fits comfortably on phones */
