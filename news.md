@@ -4,6 +4,8 @@
 
 {% assign news = site.news | sort: "date" | reverse %}
 
+{% for item in news %}
+
 <div class="news-card">
 
     {% if item.image %}
@@ -27,7 +29,6 @@
 </div>
 
 {% endfor %}
-
 
 </section>
 
