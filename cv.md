@@ -258,7 +258,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
 
         <div class="item">
           <div class="item-header">
-            <div class="item-title">Principal Investigator</div>
+            <div class="item-title">CNRS Research Fellow</div>
             <div class="item-meta">2015 — Present</div>
           </div>
           <div class="item-sub">Huix-Rotllant Research Group</div>
