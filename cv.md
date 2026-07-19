@@ -191,47 +191,48 @@
     <aside class="sidebar">
       <div class="profile-frame">
         <!-- Swap this source placeholder link out for your local image path -->
-        <img src="https://via.placeholder.com/220x220" alt="Profile Picture">
+        <img src="/images/people/miquel.png" alt="Profile Picture">
       </div>
       
       <h1>Your Name</h1>
       <div class="subtitle">Computational Photochemistry &amp; Excited-State Dynamics</div>
       
       <div class="contact-links">
-        <a href="mailto:you@example.com">you@example.com</a>
-        <a href="https://huixrotllant.github.io">huixrotllant.github.io</a>
-        <a href="https://github.com/username">github.com/username</a>
+        <b>Email:</b><a href="mailto:miquel.huix-rotllant@cnrs.fr">miquel.huix-rotllant@cnrs.fr</a>
+        <b>Website:</b><a href="https://huixrotllant.github.io">huixrotllant.github.io</a>
+        <b>Orcid:</b> <a href="https://orcid.org/0000-0002-2131-7328">0000-0002-2131-7328</a>
       </div>
     </aside>
 
     <!-- RIGHT COLUMN: Main Academic & Professional Chronicle -->
     <main class="main-content">
+
+    <!-- SUMMARY -->
+      <section>
+        <h2>Summary</h2>
+
+        <div class="item">
+          <p class="item-desc">
+            Investigating the photochemistry of molecular systems in complex environments. Developing theoretical architectures for non-adiabatic dynamics and multi-scale QM/MM platforms.
+          </p>
+        </div>
+      </section>
       
       <!-- EXPERIENCE -->
       <section>
-        <h2>Experience</h2>
+        <h2>Current Position</h2>
 
         <div class="item">
           <div class="item-header">
             <div class="item-title">Principal Investigator</div>
-            <div class="item-meta">2024 — Present</div>
+            <div class="item-meta">2015 — Present</div>
           </div>
           <div class="item-sub">Huix-Rotllant Research Group</div>
           <p class="item-desc">
             Investigating the photochemistry of molecular systems in complex environments. Developing theoretical architectures for non-adiabatic dynamics and multi-scale QM/MM platforms.
           </p>
         </div>
-
-        <div class="item">
-          <div class="item-header">
-            <div class="item-title">Postdoctoral Fellow</div>
-            <div class="item-meta">2021 — 2024</div>
-          </div>
-          <div class="item-sub">Theoretical Chemistry Institute</div>
-          <p class="item-desc">
-            Explored variations of the Schrödinger equation under light-induced conditions across condensed phases and complex proteins.
-          </p>
-        </div>
+        
       </section>
 
       <!-- EDUCATION -->
@@ -240,12 +241,24 @@
 
         <div class="item">
           <div class="item-header">
-            <div class="item-title">Ph.D. in Theoretical Chemistry</div>
-            <div class="item-meta">2017 — 2021</div>
+            <div class="item-title">Habilitation to supervise research</div>
+            <div class="item-meta">2025</div>
           </div>
-          <div class="item-sub">University of Science — Summa Cum Laude</div>
+          <div class="item-sub">Aix-Marseille University (France)</div>
           <p class="item-desc">
-            Thesis: Methodological developments of TDDFT applied directly inside repeating periodic boundary conditions.
+            Thesis: Energy dissipation in photoactive molecular systems: from gas to condensed phase
+          </p>
+        </div>
+
+        <div class="item">
+          <div class="item-header">
+            <div class="item-title">PhD Theoretical Chemistry</div>
+            <div class="item-meta">2008-2011</div>
+          </div>
+          <div class="item-sub">Université de Grenoble (France)</div>
+           <div class="item-sub"><b>Advisor:</b> Mark E. Casida</div>
+          <p class="item-desc">
+            Thesis: Improved correlation kernels for linear-response time-dependent density-functional theory
           </p>
         </div>
       </section>
