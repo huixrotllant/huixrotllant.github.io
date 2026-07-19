@@ -32,7 +32,7 @@ We develop theoretical and computational methods to investigate the photochemist
 
         <h3>{{ item.title }}</h3>
 
-        <p>{{ item.excerpt | strip_html | truncate:150 }}</p>
+        <p>{{ item.excerpt | strip_html }}</p>
 
     </div>
 
