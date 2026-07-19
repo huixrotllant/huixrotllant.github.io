@@ -295,6 +295,25 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
             Thesis: Improved correlation kernels for linear-response time-dependent density-functional theory
           </p>
         </div>
+
+        <div class="item">
+          <div class="item-header">
+            <div class="item-title">Master Theoretical Chemistry</div>
+            <div class="item-meta">2006-2008</div>
+          </div>
+          <div class="item-sub">Universitat Rovira i Virgili (Catalonia)</div>
+        </div>
+
+        
+        <div class="item">
+          <div class="item-header">
+            <div class="item-title">Bachelor Chemistry</div>
+            <div class="item-meta">2002-2006</div>
+          </div>
+          <div class="item-sub">Universitat de Girona (Catalonia)</div>
+        </div>
+
+        
       </section>
     </main>
   </div>
