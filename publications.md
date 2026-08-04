@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-<html>
+
 <style>
 .page-header {
   color: #000;
@@ -27,7 +27,7 @@ title: Publications
     background-color: #7c940ea1;
   }
 </style>
-<body>
+
 <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
@@ -277,5 +277,4 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-entry" data-csl-entry-id="Ferre2016">
 <div class="csl-right-inline"><i>Density-Functional Methods for Excited States</i>; Ferré, N., Filatov, M., <strong>Huix-Rotllant, M.</strong>, Eds.; Springer International Publishing, <b>2016</b>. DOI: <a href="https://dx.doi.org/10.1007/978-3-319-22081-9" target="_blank">10.1007/978-3-319-22081-9</a>.</div>
 </div>
-</div></div></div></div></div></div></div></div></div></div></body>
-</html>
+</div></div></div></div></div></div></div></div></div></div>
