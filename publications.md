@@ -28,6 +28,9 @@ title: Publications
   }
 </style>
 
+<h1>TEST</h1>
+{% bibliography %}
+
 <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
