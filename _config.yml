@@ -8,6 +8,7 @@ scholar:
   bibliography_template: publication
   sort_by: year
   order: descending
+  style: apa
 title: Huix-Rotllant Research Group
 description:
 google_analytics:
