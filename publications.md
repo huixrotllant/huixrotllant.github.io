@@ -263,7 +263,7 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 <div class="csl-right-inline"><strong>Huix-Rotllant, M.</strong>; Deka, A.; Matveev, A. V.; Bosko, S. I.; Moskaleva, L. V.; Rösch, N. <i>Characterization of Optical Spectra of Interacting Systems: Application to Oxide-Supported Metal Clusters</i>. I. J. Quant. Chem. <i>108</i>, 2978–2990, <b>2008</b>. DOI: <a href="https://dx.doi.org/10.1002/qua.21853" target="_blank">10.1002/qua.21853</a>.</div><br/>
 </div>
 <div class="csl-entry" data-csl-entry-id="Bonness2006">
-<div class="csl-right-inline">Bonness, S.; Kirtman, B.; <strong>Huix, M.</strong>; Sanchez, A. J.; Luis, J. M. <i>Simulation of Photoelectron Spectra with Anharmonicity Fully Included: Application to the \tildeXA<sup>2</sup>₂\leftarrow\tildeXA<sup>1</sup>₁ Band of Furan</i>. J. Chem. Phys. <i>125</i>, <b>2006</b>. DOI: <a href="https://dx.doi.org/10.1063/1.2210479" target="_blank">10.1063/1.2210479</a>.</div><br/>
+<div class="csl-right-inline">Bonness, S.; Kirtman, B.; <strong>Huix, M.</strong>; Sanchez, A. J.; Luis, J. M. <i>Simulation of Photoelectron Spectra with Anharmonicity Fully Included: Application to the X̃A<sup>2</sup>₂→X̃A<sup>1</sup>₁ Band of Furan</i>. J. Chem. Phys. <i>125</i>, <b>2006</b>. DOI: <a href="https://dx.doi.org/10.1063/1.2210479" target="_blank">10.1063/1.2210479</a>.</div><br/>
 </div>
 <h1>Book chapters</h1>
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2025">
