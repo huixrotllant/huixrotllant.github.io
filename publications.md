@@ -53,8 +53,7 @@ title: Publications
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Lee2025">
-<div class="csl-right-inline">Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; <strong>Huix-Rotllant, M.</strong>; Yang, X.
-Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  Biophys. J., 125, 2416, <b>2026</b>. DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034" target="_blank">10.1016/j.bpj.2026.02.034 </a> </div><br/>
+<div class="csl-right-inline">Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; <strong>Huix-Rotllant, M.</strong>; Yang, X.; Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protonation on the Ultrafast Excited State Dynamics in Archaerhodopsin-3</i>  Biophys. J., 125, 2416, <b>2026</b>. DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034" target="_blank">10.1016/j.bpj.2026.02.034 </a> </div><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Lee2025">
@@ -62,7 +61,7 @@ Ferré, N.; Inoue, K.; Olivucci, M.; Haacke, S.<i>Effects of Counter Ion Protona
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Lee2025">
-<div class="csl-right-inline">Fay, T.; <strong>Huix-Rotllant, M.</strong>; Ferré, N.; <i>Analytic Gradients and Periodic Boundary Conditions for Direct Reaction Field Polarizable QM/MM with Electrostatic Potential Fitting</i> <b>2025</b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.5c00863" target="_blank">10.1021/acs.jctc.5c00863</a> </div><br/>
+<div class="csl-right-inline">Fay, T.; <strong>Huix-Rotllant, M.</strong>; Ferré, N.; <i>Analytic Gradients and Periodic Boundary Conditions for Direct Reaction Field Polarizable QM/MM with Electrostatic Potential Fitting</i> <i>21</i>, 8773, <b>2025</b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.5c00863" target="_blank">10.1021/acs.jctc.5c00863</a> </div><br/>
 </div>
 </div>
 <div class="csl-bib-body">
@@ -72,7 +71,7 @@ Towards the modeling of static electric field effects in rhodopsin photophysics 
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Bonfrate2025b">
-<div class="csl-right-inline">Bonfrate, S.; Ferré, N.; <strong>Huix-Rotllant, M.</strong>; <i>Efficient Free Energies from a Simplified Electrostatic Embedding QM/MM Approach Based on Electrostatic Potential Fitted Operators</i> J. Chem. Inf. Model, <b>2025</b>. DOI: <a href="https://doi.org/10.1021/acs.jcim.5c01563" target="_blank">10.1021/acs.jcim.5c01563</a> </div><br/>
+<div class="csl-right-inline">Bonfrate, S.; Ferré, N.; <strong>Huix-Rotllant, M.</strong>; <i>Efficient Free Energies from a Simplified Electrostatic Embedding QM/MM Approach Based on Electrostatic Potential Fitted Operators</i> J. Chem. Inf. Model, <i>65</i> 9196, <b>2025</b>. DOI: <a href="https://doi.org/10.1021/acs.jcim.5c01563" target="_blank">10.1021/acs.jcim.5c01563</a> </div><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="HuixRotllant2025">
