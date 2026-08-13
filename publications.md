@@ -28,9 +28,6 @@ title: Publications
   }
 </style>
 
-<h1>TEST</h1>
-{% bibliography %}
-
 <!-- Submitted articles-->
 <h1>Submitted</h1>
 <div class="csl-bib-body">
@@ -41,19 +38,19 @@ title: Publications
 <div class="csl-entry" data-csl-entry-id="Mazaherifar2026">
 <div class="csl-right-inline">Ismail, I.;  Carniato, S.; Boucly, A.;  <strong>Huix-Rotllant, M.</strong>; Berholts, M.; Betoule, S.; Ceolin, D.; Naves de Brito, A.; Guillemin, R.; Hocine Hafiani, O.; Kabanova, V.;  Marchenko, T.; Muchova, E.; Nordgren, J.; Ohrwall, G.; Püttner, R.; Rubensson, J.-E.; Rue, J.-P.; Sarkar, S.; Soderstrom, J.; Travnikova, O.;  Velasquez, N.; Simon, M.; Bjorneholm, O.<i>From solvation to chelation: Chemically resolved coordination shells in liquids by intermolecular radiative decay</i> <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
 </div>
+<h1>Accepted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Bonfrate2026">
-<div class="csl-right-inline">Bonfrate, S.,; Park,W.; Mazaherifar,M.,; Ferré, N.; Choi, C. H.; <strong>Huix-Rotllant, M.</strong><i>Nonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT</i> <b>2026</b>. DOI: <a href="https://doi.org/10.26434/chemrxiv.15004044/v1" target="_blank">10.26434/chemrxiv.15004044</a> </div><br/>
+<div class="csl-right-inline">Bonfrate, S.,; Park,W.; Mazaherifar,M.,; Ferré, N.; Choi, C. H.; <strong>Huix-Rotllant, M.</strong><i>Nonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT</i> J. Chem. Theor. Comput., <b>2026</b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.6c01045" target="_blank">10.1021/acs.jctc.6c01045</a> </div><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Mazaherifar2026">
-<div class="csl-right-inline">Alías-Rodríguez,M.,; Montorsi, F.; Park,W.; Weser, O.; Bonfirraro, L.; Nenov, A.; Garavelli, M.; Choi, C. H.; Manni, G. L.; Segatta, F.; <strong>Huix-Rotllant, M.</strong><i>Benchmarking Core-Level X-ray Absorption with MRSF-TDDFT, RASPT2, and Stochastic GAS Using the XABOOM Set</i> <b>2026</b>. DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> </div><br/>
+<div class="csl-right-inline">Alías-Rodríguez,M.,; Montorsi, F.; Park,W.; Weser, O.; Bonfirraro, L.; Nenov, A.; Garavelli, M.; Choi, C. H.; Manni, G. L.; Segatta, F.; <strong>Huix-Rotllant, M.</strong><i>Benchmarking Core-Level X-ray Absorption with MRSF-TDDFT, RASPT2, and Stochastic GAS Using the XABOOM Set</i> J. Chem. Theor. Comput., <b>2026</b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.6c00965" target="_blank">10.1021/acs.jctc.6c00965</a> </div><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Mazaherifar2026">
-<div class="csl-right-inline">Mazaherifar,M.,; Park,W.; Bonfrate, S.; Li, J.; <strong>Huix-Rotllant, M.</strong>; Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i> <b>2026</b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br/>
+<div class="csl-right-inline">Mazaherifar,M.,; Park,W.; Bonfrate, S.; Li, J.; <strong>Huix-Rotllant, M.</strong>; Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i> Faraday Discussions, <b>2026</b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br/>
 </div>
-<h1>Accepted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Lee2025">
 <div class="csl-right-inline">Herasymenko, K.; Walisinghe, D.; Konno, M.; Ledentu, V.; <strong>Huix-Rotllant, M.</strong>; Yang, X.
