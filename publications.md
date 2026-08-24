@@ -32,6 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Moragues2026">
+<div class="csl-right-inline">Lashakripour, A.; Lee, S.; Huix-Rotllant, M.; Choi, C. H.<i>Quintet Mixed-Reference Spin-Flip TDDFT with a Dressed Kernel for Four-Orbital Strong Correlation</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
+</div>
+<div class="csl-bib-body">
+<div class="csl-entry" data-csl-entry-id="Moragues2026">
 <div class="csl-right-inline">Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; <strong>Huix-Rotllant, M.</strong>; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
 </div>
 <div class="csl-bib-body">
