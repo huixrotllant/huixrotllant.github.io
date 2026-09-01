@@ -35,14 +35,14 @@ title: Publications
 <div class="csl-right-inline">Lashakripour, A.; Lee, S.; Huix-Rotllant, M.; Choi, C. H.<i>Quintet Mixed-Reference Spin-Flip TDDFT with a Dressed Kernel for Four-Orbital Strong Correlation</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
 </div>
 <div class="csl-bib-body">
-<div class="csl-entry" data-csl-entry-id="Moragues2026">
-<div class="csl-right-inline">Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; <strong>Huix-Rotllant, M.</strong>; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
-</div>
-<div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Mazaherifar2026">
 <div class="csl-right-inline">Ismail, I.;  Carniato, S.; Boucly, A.;  <strong>Huix-Rotllant, M.</strong>; Berholts, M.; Betoule, S.; Ceolin, D.; Naves de Brito, A.; Guillemin, R.; Hocine Hafiani, O.; Kabanova, V.;  Marchenko, T.; Muchova, E.; Nordgren, J.; Ohrwall, G.; Püttner, R.; Rubensson, J.-E.; Rue, J.-P.; Sarkar, S.; Soderstrom, J.; Travnikova, O.;  Velasquez, N.; Simon, M.; Bjorneholm, O.<i>From solvation to chelation: Chemically resolved coordination shells in liquids by intermolecular radiative decay</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
 </div>
 <h1>Accepted</h1>
+<div class="csl-bib-body">
+<div class="csl-entry" data-csl-entry-id="Moragues2026">
+<div class="csl-right-inline">Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; <strong>Huix-Rotllant, M.</strong>; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives</i>. Analytical Biochemistry <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
+</div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Bonfrate2026">
 <div class="csl-right-inline">Bonfrate, S.; Park, W.; Mazaherifar, M.; Ferré, N.; Choi, C. H.; <strong>Huix-Rotllant, M.</strong><i>Nonadiabatic Dynamics of Uracil in Aqueous Solution from QM/MM in Periodic Boundary Conditions Combined with Mixed-Reference Spin-Flip TDDFT</i>. J. Chem. Theory Comput., <b>2026</b>. DOI: <a href="https://doi.org/10.1021/acs.jctc.6c01045" target="_blank">10.1021/acs.jctc.6c01045</a> </div><br/>
