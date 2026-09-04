@@ -41,7 +41,7 @@ title: Publications
 <h1>Accepted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Moragues2026">
-<div class="csl-right-inline">Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; <strong>Huix-Rotllant, M.</strong>; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives</i>. Analytical Biochemistry <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
+<div class="csl-right-inline">Moragues, A.;  Jingeot, L.; Nguyen, C.; Spitz, C.; Berge-Lefranc, D.; <strong>Huix-Rotllant, M.</strong>; Pietri, S.; Stocker, P.<i>Selective fluorescence turn-on detection of methylglyoxal using N-substituted NBD derivatives</i>. Analytical Biochemistry <b>2026</b>. DOI: <a href="https://doi.org/10.1016/j.ab.2026.116242" target="_blank">10.1016/j.ab.2026.116242</a> </div><br/><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Bonfrate2026">
