@@ -53,7 +53,7 @@ title: Publications
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Mazaherifar2026">
-<div class="csl-right-inline">Mazaherifar, M.; Park, W.; Bonfrate, S.; Li, J.; <strong>Huix-Rotllant, M.</strong>; Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i>. Faraday Discussions, <b>2026</b>. <!--DOI: <a href="https://doi.org/10.1016/j.bpj.2026.02.034 " target="_blank">10.1016/j.bpj.2026.02.034 </a>--> </div><br/>
+<div class="csl-right-inline">Mazaherifar, M.; Park, W.; Bonfrate, S.; Li, J.; <strong>Huix-Rotllant, M.</strong>; Choi, C. H.<i>Modular Integration of MRSF-TDDFT, NAMD, and QM/MM for Excited-State Dynamics on the OpenQP Platform</i>. Faraday Discussions, <b>2026</b>. DOI: <a href="https://doi.org/10.1039/d6fd00056h" target="_blank">10.1039/d6fd00056h </a> </div><br/>
 </div>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Lee2025">
