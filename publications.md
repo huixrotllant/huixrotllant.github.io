@@ -32,6 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Moragues2026">
+<div class="csl-right-inline">Wang, X.; Park, W.; Mayer, D.; Lever, F.; Cirmi, G.; Di Fraia, M.; Erk, B.; Kuhlmann, M.; Phelps, Z.; Plekan, O.; Pressacco, F.; Schulz, S.; Choi, C. H.; Huix-Rotllant, M.; Gühr, M.<i>Deciphering the internal conversion and triplet formation in thymine via time-resolved multi-center X-ray photoelectron spectroscopy</i>. <b>2026</b>. <!-- DOI: <a href="https://arxiv.org/abs/2610.01419" target="_blank">10.48550/arXiv.2610.01419</a> --> </div><br/><br/>
+</div>
+<div class="csl-bib-body">
+<div class="csl-entry" data-csl-entry-id="Moragues2026">
 <div class="csl-right-inline">Lashakripour, A.; Lee, S.; Huix-Rotllant, M.; Choi, C. H.<i>Quintet Mixed-Reference Spin-Flip TDDFT with a Dressed Kernel for Four-Orbital Strong Correlation</i>. <b>2026</b>. <!-- DOI: <a href="https://doi.org/10.26434/chemrxiv.15003416/v1" target="_blank">10.26434/chemrxiv.15003416</a> --> </div><br/><br/>
 </div>
 <div class="csl-bib-body">
