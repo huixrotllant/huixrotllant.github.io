@@ -32,6 +32,10 @@ title: Publications
 <h1>Submitted</h1>
 <div class="csl-bib-body">
 <div class="csl-entry" data-csl-entry-id="Moragues2026">
+<div class="csl-right-inline">Eder, I.; Ferré, N.; Huix-Rotllant, M.; <i>Static Electric Field Effects on the Photoisomerisation of a Protonated Schiff Base Model</i>. <b>2026</b>.  DOI: <a href="https://hal.science/hal-05801912" target="_blank">hal-05801912</a> </div><br/><br/>
+</div>
+<div class="csl-bib-body">
+<div class="csl-entry" data-csl-entry-id="Moragues2026">
 <div class="csl-right-inline">Wang, X.; Park, W.; Mayer, D.; Lever, F.; Cirmi, G.; Di Fraia, M.; Erk, B.; Kuhlmann, M.; Phelps, Z.; Plekan, O.; Pressacco, F.; Schulz, S.; Choi, C. H.; Huix-Rotllant, M.; Gühr, M.<i>Deciphering the internal conversion and triplet formation in thymine via time-resolved multi-center X-ray photoelectron spectroscopy</i>. <b>2026</b>. <!-- DOI: <a href="https://arxiv.org/abs/2610.01419" target="_blank">10.48550/arXiv.2610.01419</a> --> </div><br/><br/>
 </div>
 <div class="csl-bib-body">
