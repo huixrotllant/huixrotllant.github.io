@@ -311,7 +311,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
 
         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi Femto-Switch (<a src="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">ANR-24-CE92-0043</a>)</div>
+            <div class="item-title">ANR PRCi Femto-Switch (<a href="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">ANR-24-CE92-0043</a>)</div>
             <div class="item-meta">2025-2028</div>
           </div>
           <div class="item-sub">Role: Partner</div>
@@ -319,12 +319,13 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
          Title: A Combined Theoretical and Experimental Study of Ultrafast Bio-mimetic Photo-switches – Towards Rational Design Principles
           </p>
         </div>
-
+      </section>
+      <section>
         <h2>Passed Grants</h2>
         
                 <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRC MAPPLE (<a src="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">ANR-22-CE29-0014</a>)</div>
+            <div class="item-title">ANR PRC MAPPLE (<a href="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">ANR-22-CE29-0014</a>)</div>
             <div class="item-meta">2022-2026</div>
           </div>
           <div class="item-sub">Role: Partner</div>
@@ -334,7 +335,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
         </div>
                         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi ULTRArchea (<a src="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">ANR-21-CE11-0029</a>)</div>
+            <div class="item-title">ANR PRCi ULTRArchea (<a href="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">ANR-21-CE11-0029</a>)</div>
             <div class="item-meta">2021-2026</div>
           </div>
           <div class="item-sub">Role: Participant</div>
@@ -346,7 +347,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
 
                         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi MULTICROSS (<a src="https://anr.fr/Project-ANR-19-CE29-0018" target="_blank">ANR-19-CE29-0018</a>)</div>
+            <div class="item-title">ANR PRCi MULTICROSS (<a href="https://anr.fr/Project-ANR-19-CE29-0018" target="_blank">ANR-19-CE29-0018</a>)</div>
             <div class="item-meta">2019-2023</div>
           </div>
           <div class="item-sub">Role: Partner</div>
@@ -368,7 +369,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
 
                         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi BIOMAGNET (<a src="https://anr.fr/Project-ANR-16-CE29-0008" target="_blank">ANR-16-CE29-0008</a>)</div>
+            <div class="item-title">ANR PRCi BIOMAGNET (<a href="https://anr.fr/Project-ANR-16-CE29-0008" target="_blank">ANR-16-CE29-0008</a>)</div>
             <div class="item-meta">2021-2026</div>
           </div>
           <div class="item-sub">Role: Coordinator</div>
