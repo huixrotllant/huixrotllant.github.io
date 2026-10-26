@@ -320,6 +320,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
           </p>
         </div>
       </section>
+      
       <section>
         <h2>Passed Grants</h2>
         
@@ -343,7 +344,6 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
          Title: Ultrafast structural dynamics of Archaerhodopsin-3 in its fluorescent state
           </p>
         </div>
-      </section>
 
                         <div class="item">
           <div class="item-header">
@@ -355,7 +355,6 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
          Title: Multiple trajectories towards excited states
           </p>
         </div>
-      </section>
 
                       <div class="item">
           <div class="item-header">
