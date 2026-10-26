@@ -277,12 +277,24 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
       <!-- FUNDING -->
       <section>
         <h2>On-Going Grants</h2>
+
+                <div class="item">
+          <div class="item-header">
+            <div class="item-title">ANR PRCi TAKTIC </div>
+            <div class="item-meta">2027-2030</div>
+          </div>
+          <div class="item-sub">Scientific coordinator</div>
+          <p class="item-desc">
+         Title:          </p>
+        </div>
+
+        
                 <div class="item">
           <div class="item-header">
             <div class="item-title">PHC STAR</div>
             <div class="item-meta">2027-2029</div>
           </div>
-          <div class="item-sub">Project coordinator</div>
+          <div class="item-sub">Role: Coordinator</div>
           <p class="item-desc">
          Title: Development of new methods for multi-scale modeling          </p>
         </div>
@@ -292,42 +304,80 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
             <div class="item-title">ANR PRC CASPI </div>
             <div class="item-meta">2026-2029</div>
           </div>
-          <div class="item-sub">Project participant</div>
+          <div class="item-sub">Role: Participant</div>
           <p class="item-desc">
          Title: Development of NHC organocatalysts for extreme photoreduction          </p>
         </div>
 
         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi Femto-Switch (<a src="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">24-CE92-0043</a>)</div>
+            <div class="item-title">ANR PRCi Femto-Switch (<a src="https://anr.fr/Project-ANR-24-CE92-0043" target="_blank">ANR-24-CE92-0043</a>)</div>
             <div class="item-meta">2025-2028</div>
           </div>
-          <div class="item-sub">Project partner</div>
+          <div class="item-sub">Role: Partner</div>
           <p class="item-desc">
          Title: A Combined Theoretical and Experimental Study of Ultrafast Bio-mimetic Photo-switches – Towards Rational Design Principles
           </p>
         </div>
+
+        <h2>Passed Grants</h2>
+        
                 <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRC MAPPLE (<a src="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">22-CE29-0014</a>)</div>
-            <div class="item-meta">2024-2029</div>
+            <div class="item-title">ANR PRC MAPPLE (<a src="https://anr.fr/Project-ANR-22-CE29-0014" target="_blank">ANR-22-CE29-0014</a>)</div>
+            <div class="item-meta">2022-2026</div>
           </div>
-          <div class="item-sub">Project partner</div>
+          <div class="item-sub">Role: Partner</div>
           <p class="item-desc">
          Title: MAssively Parallelized Polarizable Linear-scaling QM/MM for Enzymatic catalysis
           </p>
         </div>
                         <div class="item">
           <div class="item-header">
-            <div class="item-title">ANR PRCi ULTRArchea (<a src="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">21-CE11-0029</a>)</div>
-            <div class="item-meta">2021-2027</div>
+            <div class="item-title">ANR PRCi ULTRArchea (<a src="https://anr.fr/Project-ANR-21-CE11-0029" target="_blank">ANR-21-CE11-0029</a>)</div>
+            <div class="item-meta">2021-2026</div>
           </div>
-          <div class="item-sub">Project participant</div>
+          <div class="item-sub">Role: Participant</div>
           <p class="item-desc">
          Title: Ultrafast structural dynamics of Archaerhodopsin-3 in its fluorescent state
           </p>
         </div>
       </section>
+
+                        <div class="item">
+          <div class="item-header">
+            <div class="item-title">ANR PRCi MULTICROSS (<a src="https://anr.fr/Project-ANR-19-CE29-0018" target="_blank">ANR-19-CE29-0018</a>)</div>
+            <div class="item-meta">2019-2023</div>
+          </div>
+          <div class="item-sub">Role: Partner</div>
+          <p class="item-desc">
+         Title: Multiple trajectories towards excited states
+          </p>
+        </div>
+      </section>
+
+                      <div class="item">
+          <div class="item-header">
+            <div class="item-title">PHC STAR</div>
+            <div class="item-meta">2019-2021</div>
+          </div>
+          <div class="item-sub">Role: Coordinator</div>
+          <p class="item-desc">
+         Title: Development of new DFT methods for excited states          </p>
+        </div>
+
+                        <div class="item">
+          <div class="item-header">
+            <div class="item-title">ANR PRCi BIOMAGNET (<a src="https://anr.fr/Project-ANR-16-CE29-0008" target="_blank">ANR-16-CE29-0008</a>)</div>
+            <div class="item-meta">2021-2026</div>
+          </div>
+          <div class="item-sub">Role: Coordinator</div>
+          <p class="item-desc">
+         Title: On the quest of a biological compass: magnetic field effects on the cryptochrome protein
+          </p>
+        </div>
+      </section>
+      
       <!-- EDUCATION -->
       <section>
         <h2>Education</h2>
