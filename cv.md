@@ -299,7 +299,7 @@ Following my PhD in Theoretical Chemistry from Université Grenoble (2012) focus
     </div>
     <div class="item-sub">Role: Scientific Coordinator</div>
     <p class="item-desc">
-      Title: Add the full project title here.
+      Title: Triplet States of Aromatic Ketones: Decoding Vibronic Mechanisms in Singlet-Triplet Intersystem Crossing.
     </p>
   </div>
 
