@@ -7,23 +7,24 @@ title: Biography
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Miquel Huix-Rotllant — Resume</title>
   <script>
-  function speakName() {
-    // Check if the browser supports text-to-speech
-    if ('speechSynthesis' in window) {
-      // Cancel any speech currently playing
-      window.speechSynthesis.cancel();
-      
-      // Type out how you want the computer voice to pronounce it
-      const utterance = new SpeechSynthesisUtterance("Miquel Huix Rotllant"); 
-      
-      utterance.lang = 'ca-ES'; // Change to 'es-ES', 'fr-FR', etc. if needed
-      utterance.rate = 0.9;     // Slightly slower pace so it is easy to catch
-      
-      window.speechSynthesis.speak(utterance);
-    } else {
-      alert("Text-to-speech is not supported in this browser.");
-    }
+
+function speakName() {
+  if (!("speechSynthesis" in window)) {
+    return;
   }
+
+  window.speechSynthesis.cancel();
+
+  const utterance = new SpeechSynthesisUtterance(
+    "Miquel Huix Rotllant"
+  );
+
+  utterance.lang = "ca-ES";
+  utterance.rate = 0.9;
+
+  window.speechSynthesis.speak(utterance);
+}
+
   </script>
   <style>
     /* Exact CSS specs, colors, and layout foundations from joaomoreno/resume */
@@ -45,18 +46,29 @@ title: Biography
       text-decoration: underline;
     }
 
+  *,
+  *::before,
+  *::after {
+     box-sizing: border-box;
+   }
+
     /* Core Two-Column Flex Layout Container */
-    .wrapper {
-      max-width: 840px;
-      margin: 0 auto;
-      padding: 80px 40px;
-      display: flex;
-      gap: 60px;
-    }
+.wrapper {
+  max-width: 1000px; /* was 840px */
+  margin: 0 auto;
+  padding: 80px 40px;
+  display: flex;
+  gap: 40px; /* was 60px */
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
 
     /* LEFT COLUMN: Profile Pic & Contact Panel */
     .sidebar {
-      width: 220px;
+      width: 200px;
       flex-shrink: 0;
     }
 
